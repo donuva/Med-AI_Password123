@@ -1,0 +1,204 @@
+[
+  {
+    "text": "amlodipine 10 mg po daily",
+    "position": [
+      56,
+      81
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "aspirin 81 mg po daily",
+    "position": [
+      85,
+      107
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "metoprolol succinate xl 50 mg po daily",
+    "position": [
+      111,
+      149
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "guaifenesin ml po q6h:prn",
+    "position": [
+      153,
+      178
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nystatin oral suspension 5 ml po qid:prn",
+    "position": [
+      194,
+      234
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức",
+    "position": [
+      244,
+      252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acetaminophen 325-650 mg po q6h:prn",
+    "position": [
+      256,
+      291
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "sốt đau",
+    "position": [
+      301,
+      308
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pravastatin 40 mg po daily",
+    "position": [
+      312,
+      338
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "docusate sodium 100 mg po bid",
+    "position": [
+      342,
+      371
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      381,
+      388
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "senna 8.6 mg po bid:prn",
+    "position": [
+      392,
+      415
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      425,
+      432
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "clonazepam 0.5 mg po qam:prn",
+    "position": [
+      437,
+      465
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [
+      475,
+      480
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "clonazepam 1.5 mg po qhs",
+    "position": [
+      485,
+      509
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [
+      519,
+      524
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [
+      525,
+      532
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]
