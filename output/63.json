@@ -1,0 +1,138 @@
+[
+  {
+    "text": "Bệnh túi thừa ở cả ruột non và đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      53,
+      92
+    ]
+  },
+  {
+    "text": "biến chứng thủng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      103,
+      118
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      125,
+      129
+    ]
+  },
+  {
+    "text": "colace",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      175,
+      180
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      230,
+      237
+    ]
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      295,
+      305
+    ]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      355,
+      361
+    ]
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      618,
+      624
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      772,
+      779
+    ]
+  },
+  {
+    "text": "thiếu máu hồng cầu nhỏ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1366,
+      1387
+    ]
+  },
+  {
+    "text": "27.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1392,
+      1395
+    ]
+  },
+  {
+    "text": "bun/creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1403,
+      1416
+    ]
+  },
+  {
+    "text": "chụp ct bụng, chậu, không thuốc cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1450,
+      1490
+    ]
+  },
+  {
+    "text": "viêm túi mật cấp tính không biến chứng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1567,
+      1604
+    ]
+  }
+]

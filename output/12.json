@@ -1,0 +1,199 @@
+[
+  {
+    "text": "U Sacoit tổn thương chủ yếu tại tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      82
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      22,
+      23
+    ]
+  },
+  {
+    "text": "ho ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      156,
+      164
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      327,
+      333
+    ]
+  },
+  {
+    "text": "đờm có màu hồng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      415,
+      429
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      461,
+      463
+    ]
+  },
+  {
+    "text": "38.8°C (101.8°F)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      469,
+      484
+    ]
+  },
+  {
+    "text": "ho ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      247,
+      255
+    ]
+  },
+  {
+    "text": "Đờm pha màu hồng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      623,
+      638
+    ]
+  },
+  {
+    "text": "fever",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      646,
+      650
+    ]
+  },
+  {
+    "text": "Đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      685,
+      692
+    ]
+  },
+  {
+    "text": "levofloxacin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      876,
+      887
+    ]
+  },
+  {
+    "text": "viêm phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      901,
+      913
+    ]
+  },
+  {
+    "text": "viêm phổi mắc phải cộng đồng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      918,
+      945
+    ]
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      975,
+      981
+    ]
+  },
+  {
+    "text": "công thức máu (cbc)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1035,
+      1053
+    ]
+  },
+  {
+    "text": "11.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1068,
+      1071
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1105,
+      1121
+    ]
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1139,
+      1147
+    ]
+  },
+  {
+    "text": "phù phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1154,
+      1161
+    ]
+  },
+  {
+    "text": "cấy máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1203,
+      1209
+    ]
+  }
+]

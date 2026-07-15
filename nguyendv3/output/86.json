@@ -1,0 +1,124 @@
+[
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "position": [
+      55,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      160,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      199,
+      206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      248,
+      255
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở",
+    "position": [
+      258,
+      265
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": " Đi lại khó khăn",
+    "position": [
+      294,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hai bàn chân do bệnh lý thần kinh ngoại biên",
+    "position": [
+      341,
+      389
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "position": [
+      434,
+      473
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị tật cố định vùng trước vách và vách dưới với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năng thất trái",
+    "position": [
+      485,
+      617
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "position": [
+      650,
+      690
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp động mạch vành can thiệp",
+    "position": [
+      721,
+      750
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Can thiệp mạch vành qua da và đặt stent phủ thuốc (DES) vào đoạn giữa của động mạch liên thất trước (LAD)",
+    "position": [
+      753,
+      858
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

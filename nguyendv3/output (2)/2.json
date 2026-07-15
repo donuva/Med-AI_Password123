@@ -1,0 +1,38 @@
+[
+  {
+    "text": "nghi ngờ xơ gan do rượu",
+    "position": [
+      52,
+      75
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Có tiền sử sử dụng rượu bia",
+    "position": [
+      110,
+      137
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ý thức suy giảm",
+    "position": [
+      368,
+      383
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

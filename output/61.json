@@ -1,0 +1,89 @@
+[
+  {
+    "text": "đau vùng xương bánh chè – đùi phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      73,
+      106
+    ]
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      202,
+      217
+    ]
+  },
+  {
+    "text": "Đau bánh chè đùi phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      434,
+      454
+    ]
+  },
+  {
+    "text": "đau dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      499,
+      508
+    ]
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      609,
+      624
+    ]
+  },
+  {
+    "text": "x-quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1043,
+      1049
+    ]
+  },
+  {
+    "text": "thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1083,
+      1140
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1148,
+      1167
+    ]
+  },
+  {
+    "text": "góc tăng lên",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1203,
+      1214
+    ]
+  }
+]

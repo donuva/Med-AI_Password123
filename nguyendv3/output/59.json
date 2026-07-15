@@ -1,0 +1,191 @@
+[
+  {
+    "text": "tăng đau đầu",
+    "position": [
+      160,
+      172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      263,
+      270
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      353,
+      364
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhãn áp",
+    "position": [
+      504,
+      516
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đau đầu",
+    "position": [
+      995,
+      1007
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng",
+    "position": [
+      1010,
+      1021
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1109,
+      1116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1192,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      1237,
+      1243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng tần suất đau đầu",
+    "position": [
+      1347,
+      1368
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "position": [
+      1411,
+      1426
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ ở cả hai mắt",
+    "position": [
+      1433,
+      1453
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn  đau đầu",
+    "position": [
+      1489,
+      1501
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      1433,
+      1440
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1614,
+      1621
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1872,
+      1883
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhãn áp",
+    "position": [
+      504,
+      516
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1782,
+      1793
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

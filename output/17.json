@@ -1,0 +1,424 @@
+[
+  {
+    "text": "bệnh trào ngược dạ dày- thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      40,
+      72
+    ]
+  },
+  {
+    "text": "viêm thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "position": [
+      83,
+      96
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      135,
+      137
+    ]
+  },
+  {
+    "text": "đau cơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      142,
+      147
+    ]
+  },
+  {
+    "text": "không khỏe",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      282,
+      291
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      307,
+      313
+    ]
+  },
+  {
+    "text": "Sốt cao nhất là 102.9°F",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      325,
+      347
+    ]
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      367,
+      373
+    ]
+  },
+  {
+    "text": "advil",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      378,
+      382
+    ]
+  },
+  {
+    "text": "đau cổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      394,
+      399
+    ]
+  },
+  {
+    "text": "vai phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      404,
+      411
+    ]
+  },
+  {
+    "text": "sưng quanh khớp ức đòn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      422,
+      443
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      562,
+      566
+    ]
+  },
+  {
+    "text": "đau vai phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      646,
+      657
+    ]
+  },
+  {
+    "text": "ho khan",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      696,
+      702
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      706,
+      712
+    ]
+  },
+  {
+    "text": "sợ ánh sáng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      716,
+      726
+    ]
+  },
+  {
+    "text": "siêu âm vùng cổ phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      882,
+      901
+    ]
+  },
+  {
+    "text": "áp xe/viêm khớp nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      923,
+      949
+    ]
+  },
+  {
+    "text": "x-quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      968,
+      974
+    ]
+  },
+  {
+    "text": "mri",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      984,
+      986
+    ]
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1041,
+      1060
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1152,
+      1165
+    ]
+  },
+  {
+    "text": "đau khi vận động cánh tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1175,
+      1199
+    ]
+  },
+  {
+    "text": "viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1221,
+      1234
+    ]
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1241,
+      1251
+    ]
+  },
+  {
+    "text": "tiếng tim bệnh lý",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1334,
+      1350
+    ]
+  },
+  {
+    "text": "bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1377,
+      1384
+    ]
+  },
+  {
+    "text": "13.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1386,
+      1389
+    ]
+  },
+  {
+    "text": "neutrophil",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1396,
+      1405
+    ]
+  },
+  {
+    "text": "80",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1393,
+      1394
+    ]
+  },
+  {
+    "text": "lymphocyte",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1412,
+      1421
+    ]
+  },
+  {
+    "text": "11",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1409,
+      1410
+    ]
+  },
+  {
+    "text": "chem 7",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1437,
+      1442
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1425,
+      1435
+    ]
+  },
+  {
+    "text": "ck",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1446,
+      1447
+    ]
+  },
+  {
+    "text": "58",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1449,
+      1450
+    ]
+  },
+  {
+    "text": "alt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1454,
+      1456
+    ]
+  },
+  {
+    "text": "92",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1458,
+      1459
+    ]
+  },
+  {
+    "text": "hiv vl",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1463,
+      1468
+    ]
+  },
+  {
+    "text": "đang chờ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1470,
+      1477
+    ]
+  },
+  {
+    "text": "soi tươi ký sinh trùng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1481,
+      1502
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1504,
+      1510
+    ]
+  },
+  {
+    "text": "siêu âm vùng cổ phải (scm)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1541,
+      1566
+    ]
+  },
+  {
+    "text": "ổ tụ dịch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1570,
+      1578
+    ]
+  }
+]

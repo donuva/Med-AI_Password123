@@ -1,0 +1,203 @@
+[
+  {
+    "text": "Viêm loét đại tràng",
+    "position": [
+      57,
+      76
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh gan do rượu",
+    "position": [
+      114,
+      130
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K70.9"
+    ]
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "position": [
+      280,
+      301
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "761"
+    ]
+  },
+  {
+    "text": "ăn uống kém do buồn nôn",
+    "position": [
+      408,
+      431
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng",
+    "position": [
+      438,
+      465
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      979,
+      982
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      1025,
+      1028
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run rẩy",
+    "position": [
+      1032,
+      1039
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác ngon miệng",
+    "position": [
+      1041,
+      1064
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [
+      1065,
+      1072
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nhược",
+    "position": [
+      1074,
+      1083
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "toàn trạng suy kiệt",
+    "position": [
+      1085,
+      1104
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiểu niệu",
+    "position": [
+      1106,
+      1116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy dịch từ lỗ dò tăng đáng kể",
+    "position": [
+      1118,
+      1149
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ăn uống kém",
+    "position": [
+      1188,
+      1199
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1203,
+      1211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "position": [
+      1245,
+      1266
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "761"
+    ]
+  },
+  {
+    "text": "triệu chứng",
+    "position": [
+      1338,
+      1349
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

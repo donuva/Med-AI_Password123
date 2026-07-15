@@ -1,0 +1,373 @@
+[
+  {
+    "text": "vàng da",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      118,
+      124
+    ]
+  },
+  {
+    "text": "không đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      126,
+      134
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      138,
+      141
+    ]
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      190,
+      213
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      177,
+      180
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      218,
+      226
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      181,
+      184
+    ]
+  },
+  {
+    "text": "xét nghiệm huyết thanh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      259,
+      280
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      239,
+      245
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      294,
+      300
+    ]
+  },
+  {
+    "text": "giãn đường dẫn mật trong gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      311,
+      338
+    ]
+  },
+  {
+    "text": "ống mật chủ 15 mm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      342,
+      358
+    ]
+  },
+  {
+    "text": "ercp (nội soi mật tụy ngược dòng)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      380,
+      412
+    ]
+  },
+  {
+    "text": "khối phình to 2 cm ở nhúm tá tràng lớn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      438,
+      475
+    ]
+  },
+  {
+    "text": "khối khối u lân cận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      494,
+      512
+    ]
+  },
+  {
+    "text": "chỗ hẹp đơn lẻ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      520,
+      533
+    ]
+  },
+  {
+    "text": "dài 7 mm ở một phần ba dưới của ống mật chủ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      546,
+      588
+    ]
+  },
+  {
+    "text": "lấy mẫu tế bào bằng chổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      592,
+      615
+    ]
+  },
+  {
+    "text": "phiên hình",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      620,
+      629
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      633,
+      642
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      653,
+      700
+    ]
+  },
+  {
+    "text": "khối u có nguồn gốc từ đường mật tụy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      740,
+      775
+    ]
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      835,
+      858
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      826,
+      829
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      862,
+      870
+    ]
+  },
+  {
+    "text": "lấy mẫu tế bào bằng chổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      874,
+      897
+    ]
+  },
+  {
+    "text": "phiên hình",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      902,
+      911
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      915,
+      924
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      935,
+      982
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1013,
+      1019
+    ]
+  },
+  {
+    "text": "giãn đường dẫn mật trong gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1030,
+      1057
+    ]
+  },
+  {
+    "text": "ống mật chủ 15 mm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1061,
+      1077
+    ]
+  },
+  {
+    "text": "ercp (nội soi mật tụy ngược dòng)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1099,
+      1131
+    ]
+  },
+  {
+    "text": "khối phình to 2 cm ở nhúm tá tràng lớn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1146,
+      1183
+    ]
+  },
+  {
+    "text": "khối khối u lân cận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1202,
+      1220
+    ]
+  },
+  {
+    "text": "chỗ hẹp đơn lẻ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1228,
+      1241
+    ]
+  },
+  {
+    "text": "dài 7 mm ở một phần ba dưới của ống mật chủ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1254,
+      1296
+    ]
+  },
+  {
+    "text": "ERCP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1327,
+      1330
+    ]
+  },
+  {
+    "text": "Sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1345,
+      1354
+    ]
+  },
+  {
+    "text": "u ác của đầu tuỵ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1387,
+      1402
+    ]
+  },
+  {
+    "text": "khối u có nguồn gốc từ đường mật tụy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1461,
+      1496
+    ]
+  }
+]

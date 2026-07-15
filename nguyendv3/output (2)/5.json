@@ -1,0 +1,156 @@
+[
+  {
+    "text": "bệnh trào ngược dạ dày- thực quản",
+    "position": [
+      154,
+      187
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K21.9"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      260,
+      268
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng vùng thượng vị",
+    "position": [
+      387,
+      410
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      417,
+      425
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ớn lạnh",
+    "position": [
+      471,
+      478
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      480,
+      483
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      485,
+      492
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      494,
+      496
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiểu khó",
+    "position": [
+      498,
+      506
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tắc nghẽn đường mật",
+    "position": [
+      1105,
+      1124
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "levophed",
+    "position": [
+      1360,
+      1368
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "209217"
+    ]
+  },
+  {
+    "text": "propofol",
+    "position": [
+      1375,
+      1383
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1808217"
+    ]
+  },
+  {
+    "text": "phentolamine",
+    "position": [
+      1408,
+      1420
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1361019"
+    ]
+  }
+]

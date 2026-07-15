@@ -1,0 +1,272 @@
+[
+  {
+    "text": "béo phì",
+    "position": [
+      48,
+      55
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường được kiểm soát bằng chế độ ăn",
+    "position": [
+      62,
+      106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngừng thở khi ngủ",
+    "position": [
+      113,
+      130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử lâm sàng suy tim",
+    "position": [
+      137,
+      161
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      163,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Dị ứng furosemide",
+    "position": [
+      190,
+      207
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      362,
+      369
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì thở",
+    "position": [
+      455,
+      488
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      495,
+      513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm trắng",
+    "position": [
+      582,
+      597
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      613,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [
+      623,
+      635
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      495,
+      513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì khó thở",
+    "position": [
+      847,
+      884
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      886,
+      888
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "có đờm trắng",
+    "position": [
+      889,
+      901
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      912,
+      915
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "position": [
+      1401,
+      1418
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "197419"
+    ]
+  },
+  {
+    "text": "vancomycin 1 gram",
+    "position": [
+      1434,
+      1451
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1807513"
+    ]
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "position": [
+      1467,
+      1488
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "311296"
+    ]
+  },
+  {
+    "text": "aspirin 325mg",
+    "position": [
+      1504,
+      1517
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "198467"
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebulizer",
+    "position": [
+      1533,
+      1563
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7278"
+    ]
+  },
+  {
+    "text": "methylprednisolone 125mg iv",
+    "position": [
+      1579,
+      1606
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1743704"
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "text": "bệnh trào ngược dạ dày- thực quản",
+    "position": [
+      40,
+      73
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K21.9"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      307,
+      314
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ",
+    "position": [
+      316,
+      322
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao nhất là 102.9°F",
+    "position": [
+      325,
+      348
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cổ",
+    "position": [
+      394,
+      400
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vai phải",
+    "position": [
+      646,
+      658
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng quanh khớp ức đòn",
+    "position": [
+      422,
+      444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      367,
+      374
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "1243440"
+    ]
+  },
+  {
+    "text": "advil",
+    "position": [
+      378,
+      383
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "153008"
+    ]
+  },
+  {
+    "text": "áp xe",
+    "position": [
+      562,
+      567
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      585,
+      588
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ",
+    "position": [
+      628,
+      634
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cổ",
+    "position": [
+      592,
+      598
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vai phải",
+    "position": [
+      646,
+      658
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng quanh khớp ức đòn",
+    "position": [
+      661,
+      683
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      686,
+      693
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [
+      696,
+      703
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      706,
+      713
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sợ ánh sáng",
+    "position": [
+      716,
+      727
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [
+      1041,
+      1051
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1297138"
+    ]
+  },
+  {
+    "text": "hơi đau",
+    "position": [
+      1148,
+      1155
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không đau khi vận động cánh tay",
+    "position": [
+      1169,
+      1200
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có dấu hiệu viêm mô tế bào hoặc nhiễm trùng ở các bộ phận khác trên cơ thể",
+    "position": [
+      1203,
+      1283
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phổi rõ tiếng khi nghe",
+    "position": [
+      1286,
+      1308
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tim nhịp đều",
+    "position": [
+      1311,
+      1323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cấu trúc tổn thương",
+    "position": [
+      1624,
+      1643
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi âm lợn cợn (vẩn đục)",
+    "position": [
+      1656,
+      1680
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ụ dịch",
+    "position": [
+      1573,
+      1579
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sung huyết ngoại vi",
+    "position": [
+      1822,
+      1841
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm vùng cổ phải",
+    "position": [
+      1909,
+      1929
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "404949"
+    ]
+  },
+  {
+    "text": "Hút 0.5cc dịch mủ",
+    "position": [
+      1938,
+      1955
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dẫn lưu dịch mủ/dịch chứa",
+    "position": [
+      1958,
+      1983
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

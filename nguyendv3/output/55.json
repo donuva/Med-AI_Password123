@@ -1,0 +1,22 @@
+[
+  {
+    "text": "đau quanh vết mổ",
+    "position": [
+      47,
+      63
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      42,
+      45
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

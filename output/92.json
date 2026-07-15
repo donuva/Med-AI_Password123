@@ -1,0 +1,103 @@
+[
+  {
+    "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      45,
+      83
+    ]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      138,
+      151
+    ]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      225,
+      238
+    ]
+  },
+  {
+    "text": "tăng bạch cầu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      243,
+      255
+    ]
+  },
+  {
+    "text": "ý thúc chậm hơn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      275,
+      289
+    ]
+  },
+  {
+    "text": "chụp CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      295,
+      301
+    ]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      415,
+      419
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      472,
+      479
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      481,
+      484
+    ]
+  },
+  {
+    "text": "chụp ct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      518,
+      524
+    ]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      598,
+      611
+    ]
+  }
+]

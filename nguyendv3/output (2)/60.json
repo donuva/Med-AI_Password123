@@ -1,0 +1,72 @@
+[
+  {
+    "text": "trào ngược",
+    "position": [
+      254,
+      264
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các triệu chứng",
+    "position": [
+      345,
+      360
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảnh hưởng đến sinh hoạt hằng ngày",
+    "position": [
+      411,
+      444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng trào ngược",
+    "position": [
+      528,
+      550
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kêt quả không cho thấy thoát vị hoành cách đây một năm",
+    "position": [
+      615,
+      669
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoát vị cạnh thực quản",
+    "position": [
+      694,
+      717
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vị trí nối thực quản - dạ dày",
+    "position": [
+      822,
+      851
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

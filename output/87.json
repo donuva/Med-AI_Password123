@@ -1,0 +1,147 @@
+[
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      34,
+      45
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      108,
+      115
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      121,
+      134
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      179,
+      197
+    ]
+  },
+  {
+    "text": "buồn chán",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      314,
+      322
+    ]
+  },
+  {
+    "text": "uống nhiều rượu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      325,
+      339
+    ]
+  },
+  {
+    "text": "hút cần sa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      341,
+      350
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      555,
+      562
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      595,
+      606
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      441,
+      459
+    ]
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      678,
+      718
+    ]
+  },
+  {
+    "text": "cắt cụt chân phải bên dưới gối",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      724,
+      753
+    ]
+  },
+  {
+    "text": "biến chứng thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      757,
+      790
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      795,
+      856
+    ]
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      943,
+      962
+    ]
+  }
+]

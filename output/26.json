@@ -1,0 +1,13 @@
+[
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      52,
+      58
+    ]
+  }
+]

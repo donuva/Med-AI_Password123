@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      60
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      68,
+      96
+    ]
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      104,
+      136
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      142,
+      156
+    ]
+  },
+  {
+    "text": "rung nhĩ kịch phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      172,
+      189
+    ]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      197,
+      220
+    ]
+  },
+  {
+    "text": "phẫu thuật TURP",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      266,
+      280
+    ]
+  },
+  {
+    "text": "xạ hình tưới máu cơ tim mibi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      289,
+      316
+    ]
+  },
+  {
+    "text": "metoprolol (reduced from 50mg to 25mg daily)",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      354,
+      397
+    ]
+  },
+  {
+    "text": "desmopressin",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      405,
+      416
+    ]
+  },
+  {
+    "text": "Rối loạn dáng đi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      491,
+      506
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      522,
+      524
+    ]
+  },
+  {
+    "text": "gãy cổ xương đùi di lệch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      651,
+      674
+    ]
+  },
+  {
+    "text": "Đau ở hông phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      954,
+      968
+    ]
+  },
+  {
+    "text": "Chấn thương tù ở Chi dưới phải (RLE)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1173,
+      1208
+    ]
+  },
+  {
+    "text": "vết thương hở phần khác của chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1216,
+      1251
+    ]
+  },
+  {
+    "text": "chấn thương đầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1276,
+      1290
+    ]
+  },
+  {
+    "text": "mất ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1297,
+      1306
+    ]
+  },
+  {
+    "text": "mất vận động vùng đỉnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1438,
+      1459
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1467,
+      1483
+    ]
+  },
+  {
+    "text": "Hình ảnh mức nước - hơi vùng ngực",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1485,
+      1517
+    ]
+  },
+  {
+    "text": "chụp ct ngực không thuốc cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1526,
+      1559
+    ]
+  },
+  {
+    "text": "tim to",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1570,
+      1575
+    ]
+  },
+  {
+    "text": "tràn dịch màng tim",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1578,
+      1595
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1598,
+      1624
+    ]
+  },
+  {
+    "text": "thoát vị hoành nhỏ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1627,
+      1644
+    ]
+  },
+  {
+    "text": "thay đổi khí phế thủng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1647,
+      1668
+    ]
+  },
+  {
+    "text": "xẹp phổi hai đáy",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1674,
+      1689
+    ]
+  },
+  {
+    "text": "đau ở hông phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1921,
+      1935
+    ]
+  },
+  {
+    "text": "mức nước-khí",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2042,
+      2053
+    ]
+  },
+  {
+    "text": "xạ hình tưới máu cơ tim  mibi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2221,
+      2249
+    ]
+  },
+  {
+    "text": "khuyết tật toàn bộ, không hồi phục, kích thước vừa phải ở thành dưới gần mấu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2252,
+      2327
+    ]
+  },
+  {
+    "text": "siêu âm tim qua thành ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2335,
+      2360
+    ]
+  },
+  {
+    "text": "EF30",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2392,
+      2395
+    ]
+  },
+  {
+    "text": "hở van ba lá vừa-nặng (mod-severe TR)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2422,
+      2458
+    ]
+  },
+  {
+    "text": "hở van hai lá/van động mạch chủ nhẹ (mild ARMR)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2463,
+      2509
+    ]
+  },
+  {
+    "text": "Gãy xương hông phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2517,
+      2535
+    ]
+  },
+  {
+    "text": "gãy cổ xương đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2538,
+      2558
+    ]
+  },
+  {
+    "text": "lún đầu dưới",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2561,
+      2572
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim vùng vách liên thất, mạn tính và đỉnh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2847,
+      2899
+    ]
+  },
+  {
+    "text": "rung nhĩ kịch phát liên tục",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2907,
+      2933
+    ]
+  },
+  {
+    "text": "tiểu đêm nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2963,
+      2976
+    ]
+  }
+]

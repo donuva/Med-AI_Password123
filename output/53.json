@@ -1,0 +1,91 @@
+[
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      131,
+      163
+    ]
+  },
+  {
+    "text": "blốc nhĩ thất, hoàn toàn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      171,
+      194
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      233,
+      261
+    ]
+  },
+  {
+    "text": "Suy giảm nhận thức nhẹ suy giảm nhận thức",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      269,
+      309
+    ]
+  },
+  {
+    "text": "Cảm giác thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      451,
+      473
+    ]
+  },
+  {
+    "text": "Cảm giác thắt chặt ngực dưới xương ức nghiêm trọng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      622,
+      671
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      679,
+      685
+    ]
+  },
+  {
+    "text": "Cơn đau thắt ngực không ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1048,
+      1078
+    ]
+  },
+  {
+    "text": "Cơn đau thắt ngực không ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1174,
+      1204
+    ]
+  }
+]

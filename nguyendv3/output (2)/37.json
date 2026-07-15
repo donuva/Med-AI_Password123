@@ -1,0 +1,348 @@
+[
+  {
+    "text": "Đái tháo đường",
+    "position": [
+      54,
+      68
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P70.2"
+    ]
+  },
+  {
+    "text": "biến chứng bệnh lý thần kinh ngoại biên",
+    "position": [
+      73,
+      112
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim không do thiếu máu cơ tim",
+    "position": [
+      114,
+      147
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thận mạn tính",
+    "position": [
+      176,
+      194
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I12.9"
+    ]
+  },
+  {
+    "text": "Torsemide: uống 1 viên/ngày",
+    "position": [
+      224,
+      251
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "Insulin glargine: theo đơn 100 đơn vị x 2 lần/ngày",
+    "position": [
+      274,
+      324
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Isosorbide",
+    "position": [
+      349,
+      359
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "311190"
+    ]
+  },
+  {
+    "text": "Rosuvastatin (Crestor)",
+    "position": [
+      405,
+      427
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "405880"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [
+      473,
+      483
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "200031"
+    ]
+  },
+  {
+    "text": "tăng kali máu",
+    "position": [
+      590,
+      603
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine tăng",
+    "position": [
+      607,
+      622
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Torsemide/ ngày",
+    "position": [
+      741,
+      756
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "torsemide",
+    "position": [
+      805,
+      814
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "198369"
+    ]
+  },
+  {
+    "text": "glucose là thấp",
+    "position": [
+      911,
+      926
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "glargine",
+    "position": [
+      943,
+      951
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Báo cáo bị ngã",
+    "position": [
+      954,
+      968
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Dùng xe đẩy hàng",
+    "position": [
+      979,
+      995
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "isosorbide",
+    "position": [
+      1040,
+      1050
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "311190"
+    ]
+  },
+  {
+    "text": "crestor",
+    "position": [
+      1052,
+      1059
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "859421"
+    ]
+  },
+  {
+    "text": "carvedilol",
+    "position": [
+      1061,
+      1071
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "200031"
+    ]
+  },
+  {
+    "text": "isosorbide",
+    "position": [
+      1040,
+      1050
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "311190"
+    ]
+  },
+  {
+    "text": "crestor",
+    "position": [
+      1114,
+      1121
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "859421"
+    ]
+  },
+  {
+    "text": "carvedilol",
+    "position": [
+      1123,
+      1133
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "200031"
+    ]
+  },
+  {
+    "text": "kali 6.3",
+    "position": [
+      1356,
+      1364
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên nhẹ",
+    "position": [
+      1601,
+      1632
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "insulin và dextrose",
+    "position": [
+      1680,
+      1699
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "253182"
+    ]
+  },
+  {
+    "text": "iv lasix 40 mg once",
+    "position": [
+      1720,
+      1739
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "200809"
+    ]
+  }
+]

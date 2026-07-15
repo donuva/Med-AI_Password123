@@ -1,0 +1,28 @@
+[
+  {
+    "text": "phẫu thuật bắc cầu nối động mạch vành",
+    "position": [
+      440,
+      477
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật cắt bao quy đầu",
+    "position": [
+      484,
+      510
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z41.2"
+    ]
+  }
+]

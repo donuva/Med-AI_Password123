@@ -1,0 +1,217 @@
+[
+  {
+    "text": "Viêm loét đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      75
+    ]
+  },
+  {
+    "text": "Bệnh gan do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      114,
+      129
+    ]
+  },
+  {
+    "text": "phẫu thuật tạo hậu môn nhân tạo kiểu túi nối hồi tràng - hậu môn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      184,
+      247
+    ]
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      280,
+      300
+    ]
+  },
+  {
+    "text": "ăn uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      408,
+      418
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      423,
+      430
+    ]
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      438,
+      464
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      524,
+      526
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      557,
+      559
+    ]
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      564,
+      570
+    ]
+  },
+  {
+    "text": "mất cảm giác ngon miệng/chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      578,
+      608
+    ]
+  },
+  {
+    "text": "suy nhược",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      616,
+      624
+    ]
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      633,
+      651
+    ]
+  },
+  {
+    "text": "giảm lượng nước tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      659,
+      678
+    ]
+  },
+  {
+    "text": "lượng nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "text": "1800 ml",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      683,
+      689
+    ]
+  },
+  {
+    "text": "300 ml",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      701,
+      706
+    ]
+  },
+  {
+    "text": "lượng dịch từ ống thông hồi tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      745,
+      777
+    ]
+  },
+  {
+    "text": "350 ml",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      782,
+      787
+    ]
+  },
+  {
+    "text": "1200 ml",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      793,
+      799
+    ]
+  },
+  {
+    "text": "thiểu niệu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1106,
+      1115
+    ]
+  },
+  {
+    "text": "chảy dịch từ lỗ dò tăng đáng kể",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1118,
+      1148
+    ]
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1245,
+      1265
+    ]
+  }
+]

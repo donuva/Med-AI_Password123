@@ -1,0 +1,247 @@
+[
+  {
+    "text": "thông não",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      93,
+      101
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) đầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      110,
+      138
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      165,
+      171
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      353,
+      363
+    ]
+  },
+  {
+    "text": "não úng thuỷ khác",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      388,
+      404
+    ]
+  },
+  {
+    "text": "tăng nhãn áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      504,
+      515
+    ]
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      703,
+      717
+    ]
+  },
+  {
+    "text": "mờ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      728,
+      733
+    ]
+  },
+  {
+    "text": "nhìn mờ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      772,
+      778
+    ]
+  },
+  {
+    "text": "não úng tuỷ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      846,
+      856
+    ]
+  },
+  {
+    "text": "não úng thủy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      968,
+      979
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      263,
+      269
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      1192,
+      1202
+    ]
+  },
+  {
+    "text": "mờ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1237,
+      1242
+    ]
+  },
+  {
+    "text": "đau đầu gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1361,
+      1377
+    ]
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1411,
+      1425
+    ]
+  },
+  {
+    "text": "nhìn mờ ở cả hai mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1433,
+      1452
+    ]
+  },
+  {
+    "text": "cơn đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "text": "nhìn mờ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1543,
+      1549
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1000,
+      1006
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1782,
+      1792
+    ]
+  },
+  {
+    "text": "Phù gai thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1872,
+      1882
+    ]
+  },
+  {
+    "text": "Tăng nhãn áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1987,
+      1998
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) đầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2007,
+      2035
+    ]
+  },
+  {
+    "text": "Phù gai thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2078,
+      2088
+    ]
+  }
+]

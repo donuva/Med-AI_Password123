@@ -1,0 +1,48 @@
+[
+  {
+    "text": "u cơ trơn tử cung",
+    "position": [
+      39,
+      56
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "iron",
+    "position": [
+      104,
+      108
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "90176"
+    ]
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [
+      165,
+      178
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu nhiều",
+    "position": [
+      182,
+      196
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

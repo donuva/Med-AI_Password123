@@ -1,0 +1,303 @@
+[
+  {
+    "text": "không va đập đầu",
+    "position": [
+      298,
+      314
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [
+      386,
+      394
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phản ứng thần kinh mạch máu",
+    "position": [
+      398,
+      425
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi cài cúc áo và kéo khóa quần",
+    "position": [
+      540,
+      580
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy yếu sức",
+    "position": [
+      682,
+      698
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn",
+    "position": [
+      720,
+      728
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kéo lê chân trái",
+    "position": [
+      767,
+      783
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cánh tay trái được cho là lơ lửng",
+    "position": [
+      787,
+      820
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi xuống ghế ăn trưa",
+    "position": [
+      827,
+      879
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "position": [
+      886,
+      901
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [
+      975,
+      986
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác bất thường",
+    "position": [
+      1006,
+      1025
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổn định",
+    "position": [
+      1058,
+      1065
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kéo khóa quần",
+    "position": [
+      2041,
+      2054
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi tiểu",
+    "position": [
+      2065,
+      2072
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn",
+    "position": [
+      2083,
+      2091
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kéo lê chân trái",
+    "position": [
+      2113,
+      2129
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cánh tay trái lơ lửng",
+    "position": [
+      2131,
+      2152
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn",
+    "position": [
+      2154,
+      2162
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "position": [
+      2190,
+      2205
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bất thường",
+    "position": [
+      2216,
+      2226
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầu",
+    "position": [
+      2236,
+      2239
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chấn thương đầu",
+    "position": [
+      2291,
+      2306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngã",
+    "position": [
+      2321,
+      2324
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [
+      2436,
+      2444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phản ứng thần kinh mạch máu",
+    "position": [
+      2448,
+      2475
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hơi vụng về",
+    "position": [
+      2611,
+      2622
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "position": [
+      2626,
+      2642
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

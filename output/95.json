@@ -1,0 +1,164 @@
+[
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      51,
+      58
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      120,
+      142
+    ]
+  },
+  {
+    "text": "đau bụng âm ỉ quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      207,
+      229
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      266,
+      268
+    ]
+  },
+  {
+    "text": "Da niêm mạc hồng nhạt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      323,
+      343
+    ]
+  },
+  {
+    "text": "xuất huyết dưới da",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      351,
+      368
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      376,
+      398
+    ]
+  },
+  {
+    "text": "hạ sườn trái từng cơni",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      401,
+      422
+    ]
+  },
+  {
+    "text": "buồn nôn nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      430,
+      441
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      450,
+      452
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      466,
+      468
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      478,
+      484
+    ]
+  },
+  {
+    "text": "nhầy máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      523,
+      530
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      544,
+      551
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      565,
+      571
+    ]
+  },
+  {
+    "text": "chướng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      594,
+      599
+    ]
+  }
+]

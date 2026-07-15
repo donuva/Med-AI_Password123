@@ -1,0 +1,156 @@
+[
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      87,
+      113
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến giật nhú",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      147,
+      176
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      238,
+      244
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      247,
+      255
+    ]
+  },
+  {
+    "text": "phân có guaiac dương tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      260,
+      284
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      322,
+      328
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      336,
+      344
+    ]
+  },
+  {
+    "text": "phân có guaiac dương tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      352,
+      376
+    ]
+  },
+  {
+    "text": "khối ở chỗ uốn gan",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      466,
+      483
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      517,
+      537
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      597,
+      605
+    ]
+  },
+  {
+    "text": "khối ở chỗ uốn gan",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      824,
+      841
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      849,
+      869
+    ]
+  },
+  {
+    "text": "khối u thận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      901,
+      911
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      919,
+      945
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến giật nhú",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      953,
+      982
+    ]
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "text": "Bệnh phổi kẽ do sử dụng corticoid liều cao kéo dài",
+    "position": [
+      44,
+      94
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thở oxy tại nhà",
+    "position": [
+      102,
+      117
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng kháng enzym tổng hợp protein",
+    "position": [
+      124,
+      162
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      170,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp nguyên phát",
+    "position": [
+      184,
+      209
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Sinh thiết nội mạc tử cung",
+    "position": [
+      247,
+      273
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Corticoid liều cao kéo dài",
+    "position": [
+      317,
+      343
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thở oxy tại nhà",
+    "position": [
+      102,
+      117
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      382,
+      389
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "208416"
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "position": [
+      430,
+      441
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1423080"
+    ]
+  },
+  {
+    "text": "tổn thương đơn độc vùng âm hộ phải",
+    "position": [
+      839,
+      873
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cotrimoxazol",
+    "position": [
+      921,
+      933
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "doxycyclin",
+    "position": [
+      953,
+      963
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1423080"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1008,
+      1014
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bọng nước",
+    "position": [
+      1114,
+      1123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lan rộng sang mông phải",
+    "position": [
+      1125,
+      1148
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1150,
+      1153
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "rỉ dịch vàng đục giống mủ",
+    "position": [
+      1175,
+      1200
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương vùng âm hộ và mông bên phải",
+    "position": [
+      1344,
+      1382
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương cực kỳ đau đớn",
+    "position": [
+      1389,
+      1414
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tình trạng tổn thương dạng bóng nước ngày càng nặng",
+    "position": [
+      1421,
+      1472
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lan đến mông bên phải",
+    "position": [
+      1479,
+      1500
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có dịch giống mủ có màu vàng  chảy ra từ tổn thương",
+    "position": [
+      1507,
+      1558
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mông bên phải",
+    "position": [
+      1618,
+      1631
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cực kỳ đau đớn",
+    "position": [
+      1659,
+      1673
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1763,
+      1769
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      1887,
+      1894
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "208416"
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "position": [
+      1898,
+      1909
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1423080"
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "position": [
+      1932,
+      1946
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "doxycyclinebactrim",
+    "position": [
+      2235,
+      2253
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Lo ngại về Nhiễm virus Herpes simplex (HSV) hoặc Bệnh thủy đậu/Zona (do Varicella Zoster Virus)",
+    "position": [
+      2477,
+      2572
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

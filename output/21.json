@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      60
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      68,
+      74
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      98,
+      110
+    ]
+  },
+  {
+    "text": "phình động mạch chủ ngực – bụng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      231,
+      261
+    ]
+  },
+  {
+    "text": "phẫu thuật sửa van tĩnh mạch chủ ngực bụng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      451,
+      492
+    ]
+  }
+]

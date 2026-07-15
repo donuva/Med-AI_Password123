@@ -1,0 +1,280 @@
+[
+  {
+    "text": "rối loạn chức năng tâm thất phải",
+    "position": [
+      68,
+      100
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "rung nhĩ",
+    "position": [
+      102,
+      110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Suy thận mạn giai V",
+    "position": [
+      159,
+      178
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật thay van hai lá cơ học",
+    "position": [
+      311,
+      344
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ghép thận thất bại",
+    "position": [
+      251,
+      269
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "coumadin 3.0 mg /ngày",
+    "position": [
+      401,
+      422
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "855320"
+    ]
+  },
+  {
+    "text": "INR dưới ngưỡng",
+    "position": [
+      462,
+      477
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu mũi",
+    "position": [
+      529,
+      541
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số đông máu",
+    "position": [
+      622,
+      637
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "INR 1.7",
+    "position": [
+      672,
+      679
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biểu hiện bất thường",
+    "position": [
+      691,
+      711
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Không chảy máu mũi",
+    "position": [
+      746,
+      764
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có đau ngực",
+    "position": [
+      765,
+      782
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có khó thở",
+    "position": [
+      783,
+      799
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có đau bụng",
+    "position": [
+      800,
+      817
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có buồn nôn",
+    "position": [
+      819,
+      836
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không nôn",
+    "position": [
+      838,
+      847
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36.5 độ C",
+    "position": [
+      976,
+      985
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mạch",
+    "position": [
+      986,
+      990
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp",
+    "position": [
+      1000,
+      1008
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120/70 mmHg",
+    "position": [
+      1010,
+      1021
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp thở",
+    "position": [
+      1022,
+      1030
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SPO2",
+    "position": [
+      1039,
+      1043
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "92 %",
+    "position": [
+      1046,
+      1050
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "INR dưới ngưỡng",
+    "position": [
+      1075,
+      1090
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "heparin truyền tĩnh mạch liên tục",
+    "position": [
+      1130,
+      1163
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "5224"
+    ]
+  }
+]

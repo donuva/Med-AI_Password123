@@ -1,0 +1,60 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      59,
+      72
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "R BK-pop đến DP BPG",
+    "position": [
+      122,
+      141
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2057107"
+    ]
+  },
+  {
+    "text": "khó kiểm soát huyết áp đáng kể",
+    "position": [
+      247,
+      277
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi khập khiễng cách quãng",
+    "position": [
+      284,
+      309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc hẹp 80% động mạch thận trái L",
+    "position": [
+      393,
+      426
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

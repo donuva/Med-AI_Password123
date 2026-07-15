@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      48,
+      61
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      68,
+      75
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50.812"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      98,
+      111
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I12.9"
+    ]
+  },
+  {
+    "text": "Đã đặt 02 stent graft động mạch chủ ngực",
+    "position": [
+      164,
+      204
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2642589"
+    ]
+  },
+  {
+    "text": "phình động mạch chủ ngực – bụng giai đoạn 1",
+    "position": [
+      231,
+      274
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc lá",
+    "position": [
+      347,
+      355
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

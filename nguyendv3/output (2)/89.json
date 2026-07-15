@@ -1,0 +1,176 @@
+[
+  {
+    "text": "phẫu thuật cắt bỏ khối u thần kinh nội tiết ở thân tụy",
+    "position": [
+      112,
+      166
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc đang",
+    "position": [
+      171,
+      181
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1307866"
+    ]
+  },
+  {
+    "text": "octreotide",
+    "position": [
+      206,
+      216
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1090558"
+    ]
+  },
+  {
+    "text": "flagyl",
+    "position": [
+      223,
+      229
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "687211"
+    ]
+  },
+  {
+    "text": "nhịn ăn đường miệng",
+    "position": [
+      260,
+      279
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật bóc tách u nội tiết từ thân tuỵ",
+    "position": [
+      412,
+      454
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến chứng rò ống tuỵ mật",
+    "position": [
+      459,
+      484
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đặt stent vào ống dẫn tụy gần",
+    "position": [
+      570,
+      599
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm Clostridioides difficile",
+    "position": [
+      665,
+      695
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng vết mổổ",
+    "position": [
+      700,
+      719
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "flagyl",
+    "position": [
+      742,
+      748
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "687211"
+    ]
+  },
+  {
+    "text": "tuột ống sonde dẫn lưu ổ bụng",
+    "position": [
+      853,
+      882
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chân sonde dẫn lưu sưng nề",
+    "position": [
+      911,
+      937
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ",
+    "position": [
+      939,
+      941
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mũi chỉ khâu da cố định ống dẫn",
+    "position": [
+      964,
+      995
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cố định ống dẫn bằng băng dính",
+    "position": [
+      1054,
+      1084
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

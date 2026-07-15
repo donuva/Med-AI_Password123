@@ -1,0 +1,30 @@
+[
+  {
+    "text": "bệnh mạch máu",
+    "position": [
+      34,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I73.9"
+    ]
+  },
+  {
+    "text": "aspirin 325mg hằng ngày",
+    "position": [
+      75,
+      98
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "198467"
+    ]
+  }
+]

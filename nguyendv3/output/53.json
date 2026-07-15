@@ -1,0 +1,70 @@
+[
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      233,
+      246
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I12.9"
+    ]
+  },
+  {
+    "text": "Suy giảm nhận thức",
+    "position": [
+      269,
+      287
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm nhận thức",
+    "position": [
+      292,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Cảm giác thắt chặt ngực dưới xương ức nghiêm trọng",
+    "position": [
+      622,
+      672
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      679,
+      686
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lo ngại Cơn đau thắt ngực không ổn định cần can thiệp mạch vành",
+    "position": [
+      1166,
+      1229
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "text": "ung thư biểu mô tuyến",
+    "position": [
+      653,
+      674
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khối u có nguồn gốc từ đường mật tụy",
+    "position": [
+      740,
+      776
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng các xét nghiệm chức năng gan",
+    "position": [
+      826,
+      859
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin",
+    "position": [
+      862,
+      871
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "position": [
+      653,
+      674
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "giãn đường dẫn mật trong gan ở ống mật chủ 15 mm tại mức tuyến tụy",
+    "position": [
+      1030,
+      1096
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối phình to 2 cm ở nhúm tá tràng lớn",
+    "position": [
+      1146,
+      1184
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u lân cận",
+    "position": [
+      1207,
+      1221
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỗ hẹp đơn lẻ",
+    "position": [
+      1228,
+      1242
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "u ác của đầu tuỵ",
+    "position": [
+      1387,
+      1403
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u có nguồn gốc từ đường mật tụy",
+    "position": [
+      1461,
+      1497
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

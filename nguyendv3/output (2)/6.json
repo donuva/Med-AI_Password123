@@ -1,0 +1,36 @@
+[
+  {
+    "text": "Nghẽn tắc và hẹp động mạch cảnh",
+    "position": [
+      50,
+      81
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tim mạch - mạch máu",
+    "position": [
+      117,
+      136
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "PSV/EDV",
+    "position": [
+      373,
+      380
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

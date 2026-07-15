@@ -78,39 +78,6 @@ def normalize_text(text: str) -> str:
 
 
 # =============================================================================
-# DEBUG PRINTING - in dep, ro rang tung buoc de "nhin bang mat" de theo doi
-# =============================================================================
-#
-# _VERBOSE la 1 bien global, duoc extract_entities() bat/tat dau moi lan
-# chay. Cac ham con (classify_candidate, locate_refined_span,...) doc bien
-# nay de quyet dinh co in debug hay khong - tranh phai sua signature cua
-# tat ca ham de truyen them tham so verbose xuyen suot.
-
-_VERBOSE = False
-
-
-def _dbg(msg: str = ""):
-    """In 1 dong debug (chi in neu _VERBOSE=True)."""
-    if _VERBOSE:
-        print(msg)
-
-
-def _dbg_section(title: str):
-    """In 1 banner ro rang danh dau buoc lon trong pipeline (de scan bang mat)."""
-    if _VERBOSE:
-        print(f"\n{'═' * 78}")
-        print(f"  {title}")
-        print(f"{'═' * 78}")
-
-
-def _dbg_step(label: str, **kwargs):
-    """In 1 dong debug dang '[label] key=value key2=value2 ...' - gon, de doc."""
-    if _VERBOSE:
-        parts = " | ".join(f"{k}={v!r}" for k, v in kwargs.items())
-        print(f"  ├─ [{label}] {parts}")
-
-
-# =============================================================================
 # 1. LOAD MODEL
 # =============================================================================
 
@@ -141,67 +108,20 @@ NOT_ENTITY_LABEL = "KHÔNG_PHẢI"
 # 2. TANG 1: RULE-BASED CANDIDATE GENERATION (khong dung LLM)
 # =============================================================================
 
-# =============================================================================
-# CANDIDATE GENERATION - THUAT TOAN 3 DOT
-# =============================================================================
-#
-# DOT 1: cat theo XUONG DONG (don gian, universal, ap dung cho MOI dinh
-#        dang van ban - ca doan van lien tuc lan ghi chu nhieu dong/section)
-# DOT 2: trong TUNG DONG, cat tiep theo boundary CO Y NGHIA (so thu tu,
-#        tu khoa "dieu tri", dau cau, gach dau dong) - uu tien cat dung
-#        cho ngu nghia thay vi cat mu quang
-# DOT 3: neu 1 fragment VAN CON DAI hon MAX_CANDIDATE_LEN sau ca Dot 1+2
-#        (vd 1 dong bullet dai khong dau cau), cat THEO TU (last resort,
-#        khong con y nghia ngu phap, chi de dam bao khong tran token LLM)
-
-_MEANING_BOUNDARY_PATTERN = re.compile(
+_BOUNDARY_PATTERN = re.compile(
     r'(?P<marker>(?:(?<=\s)|^)\d{1,2}\.\s+)'   # so thu tu "1. " "10. "
     r'|(?P<dieutri>\s*điều trị\s+)'             # tu khoa "dieu tri" (phan cach thuoc/chi dinh)
     r'|(?P<comma>,\s*(?!\d))'                   # dau phay KHONG nam giua 2 chu so
     r'|(?P<period>\.(?!\d)\s*)'                 # dau cham KHONG theo sau boi chu so
     r'|(?P<semicolon>;\s*)'                     # dau cham phay
-    r'|(?P<colon>:\s*(?=\d))'                   # hai cham CHI KHI theo sau la chu so (khong space, vd "WBC:14,43")
-    r'|(?P<colon_header>:\s+(?=\S))'            # hai cham CO space sau (kieu "Label: value") -
-                                                 # KHAC voi "q6h:prn" (khong co space nen khong khop)
-    r'|(?P<bullet>^-\s+)'                       # gach dau dong "- " o DAU DONG (da tach rieng
-                                                 # tung dong o Dot 1 nen chi can "^" don gian)
+    r'|(?P<colon>:\s*(?=\d))'                   # hai cham CHI KHI theo sau la chu so
 )
-
-MAX_CANDIDATE_LEN = 80  # nguong an toan (ky tu) - fragment dai hon se bi cat tiep o Dot 3
-
-
-def _split_long_candidate(
-    text: str, start: int, is_indication: bool, max_len: int = MAX_CANDIDATE_LEN
-) -> List[Tuple[str, int, int, bool]]:
-    """
-    DOT 3 (last resort): neu 1 fragment van con dai hon max_len sau Dot 1+2
-    (vd 1 dong bullet dai khong co dau cau nao ben trong), cat TIEP theo
-    RANH GIOI TU (khong cat giua tu) thanh cac doan <= max_len ky tu - dam
-    bao KHONG BAO GIO co candidate qua dai dua vao LLM, giam toi da rui ro
-    LLM (Tang 2) bi tran max_new_tokens giua chung.
-    """
-    if len(text) <= max_len:
-        return [(text, start, start + len(text), is_indication)]
-
-    words = list(re.finditer(r'\S+', text))
-    chunks = []
-    i = 0
-    while i < len(words):
-        j = i
-        while j + 1 < len(words) and (words[j + 1].end() - words[i].start()) <= max_len:
-            j += 1
-        chunk_text = text[words[i].start():words[j].end()]
-        real_start = start + words[i].start()
-        real_end = start + words[j].end()
-        chunks.append((chunk_text, real_start, real_end, is_indication))
-        i = j + 1
-    return chunks
 
 
 def generate_candidates(text: str) -> List[Tuple[str, int, int, bool]]:
     """
-    Sinh candidate spans bang rule-based segmentation, THEO 3 DOT (xem
-    comment o dau section). Tra ve list (candidate_text, start, end, is_indication).
+    Sinh candidate spans bang rule-based segmentation.
+    Tra ve list (candidate_text, start, end, is_indication).
 
     is_indication=True danh dau candidate la VE PHAI cua tu khoa "điều trị"
     (vd "táo bón" trong "...po bid điều trị táo bón") - day la CHI DINH/LY DO
@@ -210,31 +130,19 @@ def generate_candidates(text: str) -> List[Tuple[str, int, int, bool]]:
     sau (xem extract_entities) - tranh loi gan nham isHistorical/isNegated
     cho van ban chi mo ta muc dich ke don, khong phai tinh trang benh nhan.
     """
-    # ===== DOT 1: cat theo xuong dong =====
-    line_segments = []  # (line_text, line_start_abs)
+    boundaries = list(_BOUNDARY_PATTERN.finditer(text))
+
+    fragments = []  # (start, end, is_indication)
     pos = 0
-    for m in re.finditer(r'\n+', text):
-        if m.start() > pos:
-            line_segments.append((text[pos:m.start()], pos))
-        pos = m.end()
+    next_is_indication = False
+    for b in boundaries:
+        if b.start() > pos:
+            fragments.append((pos, b.start(), next_is_indication))
+        next_is_indication = (b.lastgroup == "dieutri")
+        pos = b.end()
     if pos < len(text):
-        line_segments.append((text[pos:], pos))
+        fragments.append((pos, len(text), next_is_indication))
 
-    # ===== DOT 2: trong tung dong, cat tiep theo boundary CO Y NGHIA =====
-    fragments = []  # (start_abs, end_abs, is_indication)
-    for line_text, line_start in line_segments:
-        boundaries = list(_MEANING_BOUNDARY_PATTERN.finditer(line_text))
-        seg_pos = 0
-        next_is_indication = False
-        for b in boundaries:
-            if b.start() > seg_pos:
-                fragments.append((line_start + seg_pos, line_start + b.start(), next_is_indication))
-            next_is_indication = (b.lastgroup == "dieutri")
-            seg_pos = b.end()
-        if seg_pos < len(line_text):
-            fragments.append((line_start + seg_pos, line_start + len(line_text), next_is_indication))
-
-    # ===== DOT 3: neu fragment van con dai, cat tiep theo tu (last resort) =====
     candidates = []
     for start, end, is_indication in fragments:
         raw = text[start:end]
@@ -244,7 +152,7 @@ def generate_candidates(text: str) -> List[Tuple[str, int, int, bool]]:
         lstrip_len = len(raw) - len(raw.lstrip())
         real_start = start + lstrip_len
         real_end = real_start + len(stripped)
-        candidates.extend(_split_long_candidate(stripped, real_start, is_indication))
+        candidates.append((stripped, real_start, real_end, is_indication))
 
     return candidates
 
@@ -359,42 +267,6 @@ def _strip_code_fences(text: str) -> str:
     return text.strip()
 
 
-def _extract_partial_json_objects(text: str) -> List[Dict]:
-    """
-    Tach tung object {...} CAN BANG NGOAC tu 1 chuoi JSON CO THE BI CAT CUT
-    (vd LLM sinh vuot qua max_new_tokens giua chung, thieu dau ']' dong mang).
-    Object CUOI CUNG bi cat cut se KHONG BAO GIO can bang ngoac ('{' nhieu
-    hon '}') nen TU DONG bi loai, khong can xu ly rieng.
-
-    Day la fallback CUOI CUNG khi ca json.loads() lan regex tim mang hoan
-    chinh deu that bai - "cuu" lai cac entity DA DUNG truoc diem bi cat,
-    thay vi vut bo toan bo (truoc day neu JSON bi cat cut giua chung, ca
-    candidate se bi coi la "khong phai entity" va MAT TRANG toan bo entity
-    da sinh dung truoc do).
-    """
-    objects = []
-    depth = 0
-    start = None
-    for i, ch in enumerate(text):
-        if ch == '{':
-            if depth == 0:
-                start = i
-            depth += 1
-        elif ch == '}':
-            depth -= 1
-            if depth == 0 and start is not None:
-                objects.append(text[start:i + 1])
-                start = None
-
-    parsed = []
-    for obj_str in objects:
-        try:
-            parsed.append(json.loads(obj_str))
-        except json.JSONDecodeError:
-            continue
-    return parsed
-
-
 def classify_candidate(candidate_text: str) -> List[Dict]:
     """
     Goi LLM voi 1 candidate NGAN. Tra ve list [{"text":..., "type":...}, ...]
@@ -424,7 +296,6 @@ def classify_candidate(candidate_text: str) -> List[Dict]:
         skip_special_tokens=True,
     )
     cleaned = _strip_code_fences(raw)
-    _dbg(f"     LLM raw output: {raw!r}")
 
     try:
         result = json.loads(cleaned)
@@ -434,23 +305,11 @@ def classify_candidate(candidate_text: str) -> List[Dict]:
             try:
                 result = json.loads(match.group())
             except json.JSONDecodeError:
-                result = None
-        else:
-            result = None
-
-        if result is None:
-            # Fallback tang 3: JSON co the bi CAT CUT (vuot max_new_tokens
-            # giua chung, thieu dau ']' dong mang) - thu CUU lai tung
-            # object HOAN CHINH thay vi vut bo toan bo candidate.
-            partial = _extract_partial_json_objects(cleaned)
-            if partial:
-                print(f"[WARN] JSON bi cat cut cho candidate {candidate_text!r} - "
-                      f"da CUU duoc {len(partial)} object hoan chinh truoc diem cat")
-                result = partial
-            else:
-                print(f"[WARN] Khong parse duoc JSON (ke ca cuu partial) cho "
-                      f"candidate {candidate_text!r}:\n{raw}")
+                print(f"[WARN] Khong parse duoc JSON cho candidate {candidate_text!r}:\n{raw}")
                 return []
+        else:
+            print(f"[WARN] Khong tim thay JSON array cho candidate {candidate_text!r}:\n{raw}")
+            return []
 
     if not isinstance(result, list):
         print(f"[WARN] LLM tra ve khong phai list cho candidate {candidate_text!r}: {result}")
@@ -468,7 +327,6 @@ def classify_candidate(candidate_text: str) -> List[Dict]:
             continue
         valid_results.append(item)
 
-    _dbg(f"     -> {len(valid_results)} entity: {valid_results}")
     return valid_results
 
 
@@ -528,7 +386,6 @@ def locate_refined_span(
     positions = _find_all_occurrences(text_norm, refined_norm)
     start, end = pick_closest(positions, len(refined_norm))
     if start is not None:
-        _dbg(f"     Vi tri: [{start}:{end}] (tang 1: khop chinh xac, so voi {len(positions)} lan xuat hien)")
         return start, end
 
     # --- Tang 2: normalize khoang trang ---
@@ -537,7 +394,6 @@ def locate_refined_span(
     matches = list(re.finditer(pattern, text_norm))
     if matches:
         best = min(matches, key=lambda m: abs(m.start() - candidate_start))
-        _dbg(f"     Vi tri: [{best.start()}:{best.end()}] (tang 2: fallback normalize khoang trang)")
         return best.start(), best.end()
 
     # --- Tang 3: fuzzy match bang difflib, gioi han trong cua so quanh diem neo ---
@@ -551,11 +407,8 @@ def locate_refined_span(
         local_start = max(0, match.a - match.b)
         local_end = min(len(window_text), local_start + len(refined_norm))
         if local_end > local_start:
-            _dbg(f"     Vi tri: [{window_start + local_start}:{window_start + local_end}] "
-                 f"(tang 3: fuzzy difflib, do khop={match.size}/{len(refined_norm)})")
             return window_start + local_start, window_start + local_end
 
-    _dbg(f"     [WARN] KHONG tim thay vi tri nao cho {refined_text!r} (ca 3 tang deu that bai)")
     return None, None
 
 
@@ -671,13 +524,7 @@ def compute_rule_based_assertions(
     if scope in ("isHistorical", "isFamily"):
         assertions.add(scope)
 
-    local_triggers = find_local_triggers(text, entity_start)
-    assertions.update(local_triggers)
-
-    _dbg(f"     Tang A (scope active tai vi tri {entity_start}): {scope}")
-    _dbg(f"     Tang B (trigger cuc bo trong menh de): {local_triggers}")
-    _dbg(f"     -> assertions cuoi cung: {sorted(assertions)}")
-
+    assertions.update(find_local_triggers(text, entity_start))
     return sorted(assertions)
 
 
@@ -876,15 +723,10 @@ def get_entity_candidates(entity_text: str, entity_type: str) -> List[str]:
     icd10_lookup) da tu catch loi va tra ve [] - khong can try/except o day.
     """
     if entity_type == "THUỐC":
-        result = rxnorm_lookup(entity_text, disambiguator=classify_rxnorm_candidate)
-        _dbg(f"     [RxNorm] query={entity_text!r} -> candidates={result}")
-        return result
+        return rxnorm_lookup(entity_text, disambiguator=classify_rxnorm_candidate)
     elif entity_type == "CHẨN_ĐOÁN":
         english_dx = translate_diagnosis_to_english(entity_text)
-        _dbg(f"     [Dich sang Anh] {entity_text!r} -> {english_dx!r}")
-        result = icd10_lookup(english_dx)
-        _dbg(f"     [ICD-10] query={english_dx!r} -> candidates={result}")
-        return result
+        return icd10_lookup(english_dx)
     return []
 
 
@@ -910,50 +752,29 @@ def extract_entities(text: str, verbose: bool = False) -> List[Dict]:
            NHAM cac nhan dung. LLM (Tang C) chi dung de BO SUNG THEM
            isNegated cuc bo (viec nay no CO THE kiem chung tu menh de duoc
            dua vao) - hop voi ket qua rule-based Tang B, khong ghi de.
-
-    verbose=True in ra debug RO RANG theo TUNG BUOC (banner phan cach de
-    "nhin bang mat" de theo doi), ket thuc bang 1 BANG TONG KET tat ca
-    entity tim duoc.
     """
-    global _VERBOSE
-    _VERBOSE = verbose
-
-    _dbg_section(f"VAN BAN DAU VAO ({len(text)} ky tu)")
-    _dbg(text)
-
-    # ---------------- BUOC 1: candidate generation (rule-based) ----------------
-    _dbg_section("BƯỚC 1 — CANDIDATE GENERATION (rule-based, Tầng 1)")
     candidates = generate_candidates(text)
-    _dbg(f"Sinh được {len(candidates)} candidate:")
-    for i, (c_text, c_start, c_end, is_ind) in enumerate(candidates, 1):
-        tag = "[CHỈ ĐỊNH]" if is_ind else ""
-        _dbg(f"  {i:2d}. [{c_start:4d}:{c_end:4d}] {tag:11s} {c_text!r}")
+    if verbose:
+        print(f"[Tang 1] Sinh duoc {len(candidates)} candidates:")
+        for c_text, c_start, c_end, is_ind in candidates:
+            print(f"  [{c_start}:{c_end}] is_indication={is_ind} {c_text!r}")
+        print()
 
-    # ---------------- BUOC 2: scope events (assertion Tang A) ----------------
-    _dbg_section("BƯỚC 2 — SCOPE EVENTS (assertion Tầng A, quét 1 lần toàn văn bản)")
+    # Quet scope 1 lan duy nhat cho ca van ban (Tang A) - khong phu thuoc
+    # tung entity nen chi can tinh 1 lan, dung lai cho moi entity ben duoi.
     scope_events = find_scope_events(text)
-    if scope_events:
-        for pos, scope in scope_events:
-            _dbg(f"  vị trí {pos:4d} -> scope đổi thành: {scope}")
-    else:
-        _dbg("  (không có scope event nào trong văn bản)")
+    if verbose:
+        print(f"[Assertion Tang A] Scope events: {scope_events}\n")
 
-    # ---------------- BUOC 3-6: xu ly tung candidate ----------------
-    _dbg_section("BƯỚC 3-6 — XỬ LÝ TỪNG CANDIDATE (NER tinh chỉnh -> định vị -> assertion -> entity linking)")
     results = []
-    for i, (c_text, c_start, c_end, is_indication) in enumerate(candidates, 1):
-        _dbg(f"\n{'─' * 78}")
-        _dbg(f"CANDIDATE {i}/{len(candidates)}: {c_text!r}  [{c_start}:{c_end}]  is_indication={is_indication}")
-        _dbg(f"{'─' * 78}")
-
-        _dbg("  [3a. Tầng 2 - LLM classify]")
+    for c_text, c_start, c_end, is_indication in candidates:
         refined_list = classify_candidate(c_text)
         if not refined_list:
-            _dbg("  => BỎ QUA (LLM xác định đây không phải entity y tế nào)")
+            if verbose:
+                print(f"[Tang 2] BO QUA (khong phai entity): {c_text!r}")
             continue
 
         for refined in refined_list:
-            _dbg(f"\n  [3b. Định vị lại vị trí tuyệt đối cho: {refined['text']!r} ({refined['type']})]")
             start, end = locate_refined_span(text, c_start, refined["text"])
             if start is None:
                 print(f"[WARN] Khong dinh vi duoc refined text {refined['text']!r} "
@@ -976,14 +797,11 @@ def extract_entities(text: str, verbose: bool = False) -> List[Dict]:
                 # dung cua rule-based, khong mang lai loi ich nao. => bo han
                 # LLM khoi buoc isNegated, chi con Tang A (scope) + Tang B
                 # (trigger cuc bo, word-boundary) quyet dinh toan bo assertions.
-                _dbg(f"\n  [3c. Assertion (Tầng A+B rule-based) cho: {entity_text!r}]")
                 assertions = compute_rule_based_assertions(text, start, scope_events)
-            elif is_indication:
-                _dbg(f"\n  [3c. Assertion] BỎ QUA (is_indication - chỉ định/lý do kê đơn): {entity_text!r}")
+            elif is_indication and verbose:
+                print(f"[Assertion] BO QUA (is_indication - chi dinh/ly do ke don): {entity_text!r}")
 
             # Sub-problem 2: Entity Linking - chi ap dung cho THUOC/CHAN_DOAN
-            if entity_type in ("THUỐC", "CHẨN_ĐOÁN"):
-                _dbg(f"\n  [3d. Entity Linking] type={entity_type}")
             entity_candidates = get_entity_candidates(entity_text, entity_type)
 
             results.append({
@@ -993,25 +811,11 @@ def extract_entities(text: str, verbose: bool = False) -> List[Dict]:
                 "assertions": assertions,
                 "candidates": entity_candidates,
             })
-            _dbg(f"\n  => KẾT QUẢ ENTITY: {entity_text!r} | type={entity_type} | "
-                 f"pos=[{start},{end}] | assertions={assertions} | candidates={entity_candidates}")
-
-    # ---------------- BANG TONG KET CUOI CUNG ----------------
-    if verbose:
-        _dbg_section(f"TỔNG KẾT — {len(results)} ENTITY TÌM ĐƯỢC")
-        col_widths = (35, 20, 14, 22, 20)
-        header = (f"{'TEXT':<{col_widths[0]}} {'TYPE':<{col_widths[1]}} "
-                  f"{'POSITION':<{col_widths[2]}} {'ASSERTIONS':<{col_widths[3]}} {'CANDIDATES':<{col_widths[4]}}")
-        print(header)
-        print("-" * sum(col_widths) + "-" * 4)
-        for e in results:
-            text_disp = e["text"][:col_widths[0] - 2] + ".." if len(e["text"]) > col_widths[0] else e["text"]
-            pos_disp = str(e["position"])
-            assert_disp = ",".join(e["assertions"]) or "-"
-            cand_disp = ",".join(e["candidates"]) or "-"
-            print(f"{text_disp:<{col_widths[0]}} {e['type']:<{col_widths[1]}} "
-                  f"{pos_disp:<{col_widths[2]}} {assert_disp:<{col_widths[3]}} {cand_disp:<{col_widths[4]}}")
-        print()
+            if verbose:
+                print(f"[Tang 2] [{entity_type:20s}] {entity_text!r} "
+                      f"pos=[{start},{end}] assertions={assertions} "
+                      f"candidates={entity_candidates} "
+                      f"(candidate goc: {c_text!r})")
 
     return results
 
@@ -1095,9 +899,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Chay pipeline NER y khoa tren toan bo file input, xuat output.zip theo dinh dang de bai."
     )
-    parser.add_argument("--input_dir", default="../input_test",
+    parser.add_argument("--input_dir", default="../input",
                          help="Thu muc chua cac file input N.txt (mac dinh: test/input)")
-    parser.add_argument("--output_dir", default="output_test",
+    parser.add_argument("--output_dir", default="output",
                          help="Thu muc se ghi cac file output N.json (mac dinh: output)")
     parser.add_argument("--verbose", action="store_true",
                          help="In chi tiet tung buoc xu ly (debug)")

@@ -1,0 +1,210 @@
+[
+  {
+    "text": "hen suyễn",
+    "position": [
+      54,
+      63
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      70,
+      84
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      91,
+      104
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Táo bón mãn tính",
+    "position": [
+      127,
+      143
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngưng thở khi ngủ",
+    "position": [
+      151,
+      168
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      311,
+      318
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      320,
+      322
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chảy nước mũi",
+    "position": [
+      326,
+      339
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng",
+    "position": [
+      379,
+      390
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng đường hô hấp trên",
+    "position": [
+      459,
+      488
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "độ bão hòa oxy (SPO2)",
+    "position": [
+      539,
+      560
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "88-92 %",
+    "position": [
+      564,
+      571
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khí dung phối hợp Albuterol và Ipratropium",
+    "position": [
+      1236,
+      1278
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "214199"
+    ]
+  },
+  {
+    "text": "1 lần",
+    "position": [
+      1279,
+      1284
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone 1 gram",
+    "position": [
+      1291,
+      1309
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1665021"
+    ]
+  },
+  {
+    "text": "dùng 1 liều",
+    "position": [
+      1310,
+      1321
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tylenol 1 gram",
+    "position": [
+      1333,
+      1347
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      77
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      85,
+      97
+    ]
+  },
+  {
+    "text": "khó chịu chung",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      214,
+      227
+    ]
+  },
+  {
+    "text": "nghẹt mũi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      235,
+      243
+    ]
+  },
+  {
+    "text": "đau đầu bên trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      261,
+      276
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      284,
+      290
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      298,
+      306
+    ]
+  },
+  {
+    "text": "phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      441,
+      448
+    ]
+  },
+  {
+    "text": "nhầy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      451,
+      454
+    ]
+  },
+  {
+    "text": "máu đỏ tươi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      457,
+      467
+    ]
+  },
+  {
+    "text": "dịch nhầy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      474,
+      482
+    ]
+  },
+  {
+    "text": "xét nghiệm thường quy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      552,
+      572
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      583,
+      586
+    ]
+  },
+  {
+    "text": "2.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      591,
+      593
+    ]
+  },
+  {
+    "text": "kali 80mEq",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      614,
+      623
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      718,
+      721
+    ]
+  },
+  {
+    "text": "2.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      738,
+      740
+    ]
+  },
+  {
+    "text": "azithromycin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      795,
+      806
+    ]
+  },
+  {
+    "text": "nhiệt độ 97.5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      899,
+      911
+    ]
+  },
+  {
+    "text": "mạch 85",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      914,
+      920
+    ]
+  },
+  {
+    "text": "nhịp thở 18",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      923,
+      933
+    ]
+  },
+  {
+    "text": "huyết áp 14279",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      936,
+      949
+    ]
+  },
+  {
+    "text": "spo2 96",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      952,
+      958
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1032,
+      1035
+    ]
+  },
+  {
+    "text": "2.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1040,
+      1042
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1050,
+      1053
+    ]
+  },
+  {
+    "text": "2.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1070,
+      1072
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1080,
+      1083
+    ]
+  },
+  {
+    "text": "2.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1094,
+      1096
+    ]
+  },
+  {
+    "text": "40meq po k",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1136,
+      1145
+    ]
+  },
+  {
+    "text": "40meq iv k",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1158,
+      1167
+    ]
+  },
+  {
+    "text": "hạ kali máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1203,
+      1213
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      339,
+      347
+    ]
+  },
+  {
+    "text": "nhiễm trùng đường hô hấp trên cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1262,
+      1294
+    ]
+  }
+]

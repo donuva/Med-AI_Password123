@@ -1,0 +1,184 @@
+[
+  {
+    "text": "cắt bỏ ống dẫn mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      67,
+      88
+    ]
+  },
+  {
+    "text": "cắt bỏ phân đoạn bên trái gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      96,
+      124
+    ]
+  },
+  {
+    "text": "phẫu thuật nối ống gan - hỗng tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      135,
+      169
+    ]
+  },
+  {
+    "text": "ung thư đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      183,
+      199
+    ]
+  },
+  {
+    "text": "chụp đường mật",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      237,
+      250
+    ]
+  },
+  {
+    "text": "đặt 3 stent đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      253,
+      273
+    ]
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      401,
+      407
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      413,
+      415
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      426,
+      428
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      493,
+      495
+    ]
+  },
+  {
+    "text": "các ổ dịch trong ổ bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      500,
+      522
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      536,
+      540
+    ]
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      562,
+      581
+    ]
+  },
+  {
+    "text": "Augmentin đường uống trong 10 ngày",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      630,
+      663
+    ]
+  },
+  {
+    "text": "mrcp (chụp cộng hưởng từ mật tụy)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      798,
+      830
+    ]
+  },
+  {
+    "text": "nhiều nang tụy nhỏ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      841,
+      858
+    ]
+  },
+  {
+    "text": "ba stent mật kim loại đã được đặt",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      866,
+      898
+    ]
+  },
+  {
+    "text": "một ổ dịch sau phẫu thuật giảm kích thước",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      906,
+      946
+    ]
+  }
+]

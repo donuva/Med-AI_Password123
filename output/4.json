@@ -1,0 +1,295 @@
+[
+  {
+    "text": "NSAID",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      59,
+      63
+    ]
+  },
+  {
+    "text": "đau đầu gối",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      77,
+      87
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      106,
+      115
+    ]
+  },
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      206,
+      226
+    ]
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      342,
+      352
+    ]
+  },
+  {
+    "text": "buồn nôn thoáng qua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      357,
+      375
+    ]
+  },
+  {
+    "text": "nôn ói",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      404,
+      409
+    ]
+  },
+  {
+    "text": "đau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      442,
+      449
+    ]
+  },
+  {
+    "text": "Đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      551,
+      558
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      681,
+      683
+    ]
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      871,
+      896
+    ]
+  },
+  {
+    "text": "Nôn mửa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1057,
+      1063
+    ]
+  },
+  {
+    "text": "đau lưng âm ỉ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1085,
+      1097
+    ]
+  },
+  {
+    "text": "nội soi thực quản - dạ dày - tá tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1467,
+      1503
+    ]
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1533,
+      1543
+    ]
+  },
+  {
+    "text": "NSAIDs",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1569,
+      1574
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1596,
+      1605
+    ]
+  },
+  {
+    "text": "Chụp cộng hưởng từ mật tụy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1608,
+      1633
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1645,
+      1669
+    ]
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1672,
+      1695
+    ]
+  },
+  {
+    "text": "men gan tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1706,
+      1717
+    ]
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1823,
+      1846
+    ]
+  },
+  {
+    "text": "tăng men gan",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1857,
+      1868
+    ]
+  },
+  {
+    "text": "Nội soi thực quản - dạ dày - tá tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1901,
+      1937
+    ]
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1940,
+      1950
+    ]
+  },
+  {
+    "text": "Cộng hưởng từ mật tụy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1953,
+      1973
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1977,
+      2001
+    ]
+  },
+  {
+    "text": "Nội soi mật tụy ngược dòng (ERCP)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2032,
+      2064
+    ]
+  },
+  {
+    "text": "sỏi tại đoạn cuối ống mật chủ (CBD)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2112,
+      2146
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ mật tụy tụi mật",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2155,
+      2188
+    ]
+  },
+  {
+    "text": "sỏi ống dẫn mật chung đoạn cuối",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2214,
+      2244
+    ]
+  }
+]

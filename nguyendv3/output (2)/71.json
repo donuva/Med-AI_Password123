@@ -1,0 +1,218 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      39,
+      52
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "Tăng lipid máu",
+    "position": [
+      55,
+      69
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.2"
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [
+      72,
+      92
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.65"
+    ]
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      140,
+      147
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50.812"
+    ]
+  },
+  {
+    "text": "không đặc hiệu hệ số tống máu 50 inch",
+    "position": [
+      149,
+      186
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp phổi",
+    "position": [
+      189,
+      207
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "CABG",
+    "position": [
+      133,
+      137
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lasix (tăng liều gần đây)",
+    "position": [
+      272,
+      297
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      342,
+      349
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức nhẹ",
+    "position": [
+      352,
+      376
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [
+      379,
+      386
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng phù hai mắt cá chân",
+    "position": [
+      392,
+      416
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi nằm",
+    "position": [
+      419,
+      434
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      397,
+      400
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lasix",
+    "position": [
+      544,
+      549
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "200801"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      592,
+      599
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      603,
+      610
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [
+      630,
+      637
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng phù hai mắt cá chân",
+    "position": [
+      643,
+      667
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

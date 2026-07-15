@@ -1,0 +1,158 @@
+[
+  {
+    "text": "hội chứng turner",
+    "position": [
+      48,
+      64
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Q96.9"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      87,
+      100
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư đại tràng",
+    "position": [
+      146,
+      163
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z15.060"
+    ]
+  },
+  {
+    "text": "coumadin",
+    "position": [
+      204,
+      212
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "855290"
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "position": [
+      178,
+      193
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "coumadin",
+    "position": [
+      204,
+      212
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "855290"
+    ]
+  },
+  {
+    "text": "Cắt đại tràng",
+    "position": [
+      294,
+      307
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z93.2"
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebs",
+    "position": [
+      1018,
+      1043
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metoprolol 5mg iv",
+    "position": [
+      1053,
+      1070
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "866427"
+    ]
+  },
+  {
+    "text": "tc 37 độ c hr 88 bp 13482 rr 14 spo2 100",
+    "position": [
+      1138,
+      1178
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hr 140",
+    "position": [
+      1203,
+      1209
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hr 88 ",
+    "position": [
+      1149,
+      1155
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy khỏe",
+    "position": [
+      1335,
+      1348
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "text": "phẫu thuật cắt bỏ ống dẫn mật chung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      75,
+      109
+    ]
+  },
+  {
+    "text": "cắt bỏ một phần thùy gan bên trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      112,
+      144
+    ]
+  },
+  {
+    "text": "nối mật tụy bằng ống dẫn hồi tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      149,
+      182
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      238,
+      263
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      733,
+      740
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      743,
+      745
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      748,
+      750
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      753,
+      759
+    ]
+  },
+  {
+    "text": "dịch rò rỉ quanh ống thông",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      767,
+      792
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      814,
+      826
+    ]
+  },
+  {
+    "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      853,
+      889
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1042,
+      1051
+    ]
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1056,
+      1076
+    ]
+  },
+  {
+    "text": "tế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1136,
+      1152
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1169,
+      1189
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1503,
+      1510
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1513,
+      1515
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1518,
+      1525
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1533,
+      1539
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn xung quanh vị trí đặt ống dẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1575,
+      1618
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1930,
+      1937
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1940,
+      1942
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1945,
+      1947
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1950,
+      1956
+    ]
+  },
+  {
+    "text": "dịch rò rỉ quanh ống thông",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1964,
+      1989
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2011,
+      2023
+    ]
+  },
+  {
+    "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2050,
+      2086
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2228,
+      2237
+    ]
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1105,
+      1125
+    ]
+  },
+  {
+    "text": "tế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2326,
+      2342
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2362,
+      2382
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn xung quanh vị trí đặt ống dẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2566,
+      2609
+    ]
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2242,
+      2262
+    ]
+  },
+  {
+    "text": "tế bào bất thườngtế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2701,
+      2734
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2751,
+      2771
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2805,
+      2817
+    ]
+  },
+  {
+    "text": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2844,
+      2880
+    ]
+  }
+]

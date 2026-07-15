@@ -1,0 +1,212 @@
+[
+  {
+    "text": "klonopin",
+    "position": [
+      46,
+      54
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "206157"
+    ]
+  },
+  {
+    "text": "clonidine",
+    "position": [
+      54,
+      63
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1013930"
+    ]
+  },
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      195,
+      211
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn lưỡng cực",
+    "position": [
+      219,
+      237
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      244,
+      258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "klonopinclonidine",
+    "position": [
+      360,
+      377
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "clonidine",
+    "position": [
+      368,
+      377
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1013930"
+    ]
+  },
+  {
+    "text": "suboxone",
+    "position": [
+      435,
+      443
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1010603"
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "position": [
+      726,
+      734
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F32.A"
+    ]
+  },
+  {
+    "text": "tăng hoạt động",
+    "position": [
+      816,
+      830
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm nhu cầu ngủ",
+    "position": [
+      834,
+      850
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tự tử",
+    "position": [
+      893,
+      898
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "x5-6",
+    "position": [
+      933,
+      937
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "suboxone",
+    "position": [
+      957,
+      965
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1010603"
+    ]
+  },
+  {
+    "text": "suboxone",
+    "position": [
+      1000,
+      1008
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1010603"
+    ]
+  },
+  {
+    "text": "ý nghĩ tự tử",
+    "position": [
+      1057,
+      1069
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [
+      1100,
+      1105
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoảng sợ",
+    "position": [
+      1106,
+      1114
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoang tưởng như đang chiếm khí oxy của người khác",
+    "position": [
+      1121,
+      1170
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

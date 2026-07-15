@@ -1,0 +1,206 @@
+[
+  {
+    "text": "nội soi mật tuỵ ngược dòng (ERCP)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      53,
+      85
+    ]
+  },
+  {
+    "text": "đặt stent ống tuỵ gần",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      88,
+      108
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ khối u thần kinh nội tiết ở thân tụy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      112,
+      165
+    ]
+  },
+  {
+    "text": "octreotide",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      206,
+      215
+    ]
+  },
+  {
+    "text": "flagyl",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      223,
+      228
+    ]
+  },
+  {
+    "text": "Tuột sonde dẫn lưu ổ bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      346,
+      370
+    ]
+  },
+  {
+    "text": "phẫu thuật bóc tách u nội tiết từ thân tuỵ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      412,
+      453
+    ]
+  },
+  {
+    "text": "rò ống tuỵ mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      470,
+      483
+    ]
+  },
+  {
+    "text": "ERCP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      523,
+      526
+    ]
+  },
+  {
+    "text": "đặt stent vào ống dẫn tụy gần",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      570,
+      598
+    ]
+  },
+  {
+    "text": "nhiễm Clostridioides difficile",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      665,
+      694
+    ]
+  },
+  {
+    "text": "nhiễm trùng vết mổổ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      700,
+      718
+    ]
+  },
+  {
+    "text": "flagyl",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      742,
+      747
+    ]
+  },
+  {
+    "text": "tuột ống sonde dẫn lưu ổ bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      853,
+      881
+    ]
+  },
+  {
+    "text": "chân sonde dẫn lưu sưng nề, đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      911,
+      940
+    ]
+  },
+  {
+    "text": "mũi chỉ khâu da cố định ống dẫn bị tuột ra",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      964,
+      1005
+    ]
+  },
+  {
+    "text": "chân sonde dẫn lưu ổ bụng sưng nề, đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1145,
+      1181
+    ]
+  },
+  {
+    "text": "ống dẫn lưu bị tuột ra 15,24 cm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1184,
+      1214
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1327,
+      1333
+    ]
+  },
+  {
+    "text": "huyết khối tĩnh mạch sâu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1353,
+      1376
+    ]
+  }
+]

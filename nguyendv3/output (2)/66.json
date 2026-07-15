@@ -1,0 +1,158 @@
+[
+  {
+    "text": "béo phì",
+    "position": [
+      150,
+      157
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng đường tiết niệu (UTIs)",
+    "position": [
+      164,
+      198
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P39.3"
+    ]
+  },
+  {
+    "text": "đau bàn chân phải",
+    "position": [
+      307,
+      324
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng khi đi lại",
+    "position": [
+      384,
+      409
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm bể thận",
+    "position": [
+      473,
+      485
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "B26.83"
+    ]
+  },
+  {
+    "text": "viêm phế quản",
+    "position": [
+      489,
+      502
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J20.9"
+    ]
+  },
+  {
+    "text": "bạch cầu",
+    "position": [
+      1080,
+      1088
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1 hồng cầu",
+    "position": [
+      1106,
+      1116
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [
+      1118,
+      1125
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1190,
+      1207
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dòng picc đã đặt",
+    "position": [
+      1217,
+      1233
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang bàn chân phải",
+    "position": [
+      1286,
+      1312
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm xương tủy",
+    "position": [
+      1344,
+      1358
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "huyết khối tĩnh mạch sâu",
+    "position": [
+      1386,
+      1410
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

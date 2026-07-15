@@ -1,0 +1,38 @@
+[
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      42,
+      44
+    ]
+  },
+  {
+    "text": "đau quanh vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      47,
+      62
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      87,
+      89
+    ]
+  },
+  {
+    "text": "đau quanh vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      93,
+      108
+    ]
+  }
+]

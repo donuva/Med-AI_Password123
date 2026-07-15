@@ -1,0 +1,150 @@
+[
+  {
+    "text": "Đái tháo đường típ 1",
+    "position": [
+      48,
+      68
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E10.A1"
+    ]
+  },
+  {
+    "text": "viêm thần kinh ngoại biên",
+    "position": [
+      83,
+      108
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G90.09"
+    ]
+  },
+  {
+    "text": "Viêm gan virus C",
+    "position": [
+      115,
+      131
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "B18.2"
+    ]
+  },
+  {
+    "text": "lasix",
+    "position": [
+      383,
+      388
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "200801"
+    ]
+  },
+  {
+    "text": "khó khăn trong việc tự chăm sóc bản thân tại nhà",
+    "position": [
+      534,
+      582
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lasix",
+    "position": [
+      604,
+      609
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "200801"
+    ]
+  },
+  {
+    "text": "phù chân",
+    "position": [
+      699,
+      707
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chân",
+    "position": [
+      718,
+      726
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoại tử",
+    "position": [
+      730,
+      737
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù 2 chân nặng",
+    "position": [
+      834,
+      849
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét",
+    "position": [
+      851,
+      855
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy dịch vàng và có hoại tử đen",
+    "position": [
+      868,
+      900
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét bàn chân nhiễm trùng",
+    "position": [
+      938,
+      963
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

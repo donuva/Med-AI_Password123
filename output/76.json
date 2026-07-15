@@ -1,0 +1,367 @@
+[
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      61
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      69,
+      82
+    ]
+  },
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      91,
+      109
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      118,
+      132
+    ]
+  },
+  {
+    "text": "thử nghiệm gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      191,
+      209
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      183,
+      189
+    ]
+  },
+  {
+    "text": "Thông tim trái",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      217,
+      230
+    ]
+  },
+  {
+    "text": "mạch vành không có tổn thương hẹp đáng kể",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      241,
+      281
+    ]
+  },
+  {
+    "text": "mảng xơ vữa nhẹ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      297,
+      311
+    ]
+  },
+  {
+    "text": "plavix",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      355,
+      360
+    ]
+  },
+  {
+    "text": "nitrates",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      373,
+      380
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      386,
+      393
+    ]
+  },
+  {
+    "text": "đau ngực sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      463,
+      483
+    ]
+  },
+  {
+    "text": "đau ngữc dữ dội sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      549,
+      576
+    ]
+  },
+  {
+    "text": "đau kiểu bóp nghẹt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      600,
+      617
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      631,
+      643
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      737,
+      745
+    ]
+  },
+  {
+    "text": "Đau ngực dữ dội sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      798,
+      825
+    ]
+  },
+  {
+    "text": "đau kiểu bóp nghẹt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      828,
+      845
+    ]
+  },
+  {
+    "text": "lan lên hàm và cánh tay trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      848,
+      875
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      918,
+      924
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      932,
+      940
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      948,
+      955
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      963,
+      965
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      973,
+      981
+    ]
+  },
+  {
+    "text": "heparin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1006,
+      1012
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1014,
+      1021
+    ]
+  },
+  {
+    "text": "nitro",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1041,
+      1045
+    ]
+  },
+  {
+    "text": "dilaudid 3mg",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1050,
+      1061
+    ]
+  },
+  {
+    "text": "troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1095,
+      1102
+    ]
+  },
+  {
+    "text": "0.03",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1107,
+      1110
+    ]
+  },
+  {
+    "text": "creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1118,
+      1127
+    ]
+  },
+  {
+    "text": "2.0 -> 3.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1133,
+      1142
+    ]
+  },
+  {
+    "text": "k (kali)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1150,
+      1157
+    ]
+  },
+  {
+    "text": "5.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1162,
+      1164
+    ]
+  },
+  {
+    "text": "phosphate",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1172,
+      1180
+    ]
+  },
+  {
+    "text": "5.6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1185,
+      1187
+    ]
+  },
+  {
+    "text": "điện tâm đồ (ekg)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1221,
+      1237
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1242,
+      1252
+    ]
+  }
+]

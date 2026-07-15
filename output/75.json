@@ -1,0 +1,264 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      66
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      145,
+      152
+    ]
+  },
+  {
+    "text": "đau ngực trái dữ dội lan xuống cánh tay trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      640,
+      683
+    ]
+  },
+  {
+    "text": "nitroglycerin dưới lưỡi 1 liều",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      786,
+      815
+    ]
+  },
+  {
+    "text": "cơn đau dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      859,
+      872
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      885,
+      891
+    ]
+  },
+  {
+    "text": "3 viên nitroglycerin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      902,
+      921
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      945,
+      952
+    ]
+  },
+  {
+    "text": "đau ngực trái dữ dội lan xuống cánh tay trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1032,
+      1075
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1083,
+      1091
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1099,
+      1105
+    ]
+  },
+  {
+    "text": "điện tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1154,
+      1161
+    ]
+  },
+  {
+    "text": "sóng ST chênh xuống ở các chuyển đạo v4 đến v6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1163,
+      1208
+    ]
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1226,
+      1232
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1256,
+      1268
+    ]
+  },
+  {
+    "text": "Thuốc nitroglycerin dạng bôi/dán lên da (mỡ nitroglycerin)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1277,
+      1334
+    ]
+  },
+  {
+    "text": "ativan ( Lorazepam)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1342,
+      1360
+    ]
+  },
+  {
+    "text": "lovenox",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1368,
+      1374
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1400,
+      1407
+    ]
+  },
+  {
+    "text": "sóng ST trên điện tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1414,
+      1434
+    ]
+  },
+  {
+    "text": "cải thiện không chênh",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1436,
+      1456
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1569,
+      1577
+    ]
+  },
+  {
+    "text": "troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1603,
+      1610
+    ]
+  },
+  {
+    "text": "0.10",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1615,
+      1618
+    ]
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1657,
+      1667
+    ]
+  },
+  {
+    "text": "nhịp xoangnhịp xoang, tần số 91 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1678,
+      1717
+    ]
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1725,
+      1735
+    ]
+  },
+  {
+    "text": "Sóng ST chênh xuống ở các chuyển đạo v4 đến v6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      -1,
+      -1
+    ]
+  }
+]

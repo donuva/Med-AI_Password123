@@ -1,0 +1,348 @@
+[
+  {
+    "text": "ho",
+    "position": [
+      48,
+      50
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      51,
+      67
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "position": [
+      129,
+      150
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "seroquel",
+    "position": [
+      190,
+      198
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "153638"
+    ]
+  },
+  {
+    "text": "lú lẫn",
+    "position": [
+      229,
+      235
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      237,
+      246
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó nhìn gần",
+    "position": [
+      248,
+      260
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "position": [
+      323,
+      344
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F10.94"
+    ]
+  },
+  {
+    "text": "tự tử",
+    "position": [
+      400,
+      405
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lú lẫn",
+    "position": [
+      229,
+      235
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      237,
+      246
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi nhìn gần",
+    "position": [
+      532,
+      553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn thị giác",
+    "position": [
+      560,
+      577
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thị giác",
+    "position": [
+      618,
+      634
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thính giác",
+    "position": [
+      675,
+      693
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lú lẫn",
+    "position": [
+      229,
+      235
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      840,
+      849
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn thị giác",
+    "position": [
+      886,
+      903
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thị giác",
+    "position": [
+      636,
+      652
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ảo thanh",
+    "position": [
+      957,
+      965
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      939,
+      946
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo ảnh",
+    "position": [
+      996,
+      1002
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct sọ",
+    "position": [
+      1278,
+      1288
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "position": [
+      1360,
+      1380
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "băng nhóm oligoclonal",
+    "position": [
+      1472,
+      1493
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tâm thần",
+    "position": [
+      1534,
+      1542
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F48.9"
+    ]
+  },
+  {
+    "text": "cảm thấy an toàn",
+    "position": [
+      1685,
+      1701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "position": [
+      1754,
+      1774
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct sọ",
+    "position": [
+      1818,
+      1828
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "băng nhóm oligoclonal",
+    "position": [
+      1472,
+      1493
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh đa xơ cứng",
+    "position": [
+      2185,
+      2200
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "G35.D"
+    ]
+  }
+]

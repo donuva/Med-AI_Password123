@@ -1,0 +1,145 @@
+[
+  {
+    "text": "Đái tháo đường type II",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      78
+    ]
+  },
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      86,
+      104
+    ]
+  },
+  {
+    "text": "phẫu thuật bắc cầu nối động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      110,
+      146
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      154,
+      160
+    ]
+  },
+  {
+    "text": "bệnh mạch máu ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      168,
+      191
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      199,
+      226
+    ]
+  },
+  {
+    "text": "Ngưng thở khi ngủ do tắc nghẽn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      234,
+      263
+    ]
+  },
+  {
+    "text": "BiPAP",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      275,
+      279
+    ]
+  },
+  {
+    "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vậtbiệt hóa kém",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      287,
+      347
+    ]
+  },
+  {
+    "text": "cắt bao quy đầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      354,
+      368
+    ]
+  },
+  {
+    "text": "phẫu thuật bắc cầu nối động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      440,
+      476
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bao quy đầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      484,
+      509
+    ]
+  },
+  {
+    "text": "thở không xâm nhập BiPAP",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      536,
+      559
+    ]
+  }
+]

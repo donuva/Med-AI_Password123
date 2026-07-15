@@ -1,0 +1,34 @@
+[
+  {
+    "text": "ung thư biểu mô tuyến giật nhú",
+    "position": [
+      147,
+      177
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      247,
+      256
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân có guaiac dương tính",
+    "position": [
+      260,
+      285
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

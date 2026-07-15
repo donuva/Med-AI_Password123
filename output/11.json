@@ -1,0 +1,104 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      69
+    ]
+  },
+  {
+    "text": "bệnh gút",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      77,
+      84
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      107,
+      119
+    ]
+  },
+  {
+    "text": "ung thư đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      143,
+      159
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      167,
+      173
+    ]
+  },
+  {
+    "text": "xơ gan mất bù",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      191,
+      203
+    ]
+  },
+  {
+    "text": "tăng áp lực tĩnh mạch cửa",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      208,
+      232
+    ]
+  },
+  {
+    "text": "cổ trướng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      235,
+      243
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      248,
+      266
+    ]
+  },
+  {
+    "text": "liệu pháp lợi tiểu",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      308,
+      325
+    ]
+  }
+]

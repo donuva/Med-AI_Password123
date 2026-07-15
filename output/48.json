@@ -1,0 +1,526 @@
+[
+  {
+    "text": "Yếu nửa người trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      123,
+      140
+    ]
+  },
+  {
+    "text": "yếu nửa người trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      218,
+      235
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      273,
+      275
+    ]
+  },
+  {
+    "text": "va đập đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      304,
+      313
+    ]
+  },
+  {
+    "text": "chụp ct não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      328,
+      338
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      316,
+      326
+    ]
+  },
+  {
+    "text": "ngất xỉu do phản ứng thần kinh mạch máu sau cơn ngất",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      386,
+      437
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      466,
+      473
+    ]
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      540,
+      562
+    ]
+  },
+  {
+    "text": "kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      567,
+      579
+    ]
+  },
+  {
+    "text": "vụng về",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      639,
+      645
+    ]
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      650,
+      665
+    ]
+  },
+  {
+    "text": "yếu sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      691,
+      697
+    ]
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      720,
+      747
+    ]
+  },
+  {
+    "text": "kéo lê chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      767,
+      782
+    ]
+  },
+  {
+    "text": "cánh tay trái được cho là lơ lửng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      787,
+      819
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi xuống ghế ăn trưa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      827,
+      878
+    ]
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      886,
+      900
+    ]
+  },
+  {
+    "text": "cảm giác bất thường ở bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1006,
+      1039
+    ]
+  },
+  {
+    "text": "kéo lê chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1206,
+      1221
+    ]
+  },
+  {
+    "text": "cánh tay buông thõng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1226,
+      1245
+    ]
+  },
+  {
+    "text": "khó khăn khi tự ăn tối",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1250,
+      1271
+    ]
+  },
+  {
+    "text": "Yếu nửa người trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1309,
+      1326
+    ]
+  },
+  {
+    "text": "cảm thấy yếu sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1334,
+      1349
+    ]
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1357,
+      1379
+    ]
+  },
+  {
+    "text": "Khó kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1387,
+      1403
+    ]
+  },
+  {
+    "text": "Hơi vụng về",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1411,
+      1421
+    ]
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1429,
+      1444
+    ]
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1452,
+      1479
+    ]
+  },
+  {
+    "text": "kéo lê chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1487,
+      1502
+    ]
+  },
+  {
+    "text": "Cánh tay trái lơ lửng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1510,
+      1530
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi xuống ghế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1538,
+      1581
+    ]
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1589,
+      1603
+    ]
+  },
+  {
+    "text": "cảm giác bất thường ở bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1611,
+      1644
+    ]
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2016,
+      2038
+    ]
+  },
+  {
+    "text": "kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2041,
+      2053
+    ]
+  },
+  {
+    "text": "vụng về",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2056,
+      2062
+    ]
+  },
+  {
+    "text": "đi tiểu trên sàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2065,
+      2080
+    ]
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2083,
+      2110
+    ]
+  },
+  {
+    "text": "kéo lê chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2113,
+      2128
+    ]
+  },
+  {
+    "text": "cánh tay trái lơ lửng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2131,
+      2151
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2154,
+      2187
+    ]
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2190,
+      2204
+    ]
+  },
+  {
+    "text": "cảm giác bất thường bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2207,
+      2238
+    ]
+  },
+  {
+    "text": "chấn thương đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2291,
+      2305
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2321,
+      2323
+    ]
+  },
+  {
+    "text": "đập đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      2357,
+      2363
+    ]
+  },
+  {
+    "text": "chụp ct não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2378,
+      2388
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      975,
+      985
+    ]
+  },
+  {
+    "text": "ngất xỉu do phản ứng thần kinh mạch máu sau cơn ngất",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2436,
+      2487
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2508,
+      2515
+    ]
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2569,
+      2591
+    ]
+  },
+  {
+    "text": "kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2596,
+      2608
+    ]
+  },
+  {
+    "text": "vụng về",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2615,
+      2621
+    ]
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2626,
+      2641
+    ]
+  },
+  {
+    "text": "xuất huyết dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2713,
+      2737
+    ]
+  }
+]

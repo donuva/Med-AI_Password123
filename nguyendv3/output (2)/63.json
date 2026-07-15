@@ -1,0 +1,194 @@
+[
+  {
+    "text": "biến chứng thủng",
+    "position": [
+      103,
+      119
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "áp xe",
+    "position": [
+      125,
+      130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "colace",
+    "position": [
+      175,
+      181
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1247756"
+    ]
+  },
+  {
+    "text": "đại tiện",
+    "position": [
+      432,
+      440
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau hố chậu",
+    "position": [
+      535,
+      546
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      743,
+      751
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      355,
+      362
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      772,
+      780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      618,
+      625
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1243440"
+    ]
+  },
+  {
+    "text": "15670",
+    "position": [
+      1282,
+      1287
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "20",
+    "position": [
+      1298,
+      1300
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "độ bão hòa oxy 99",
+    "position": [
+      1302,
+      1319
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu hồng cầu nhỏ là 27.2",
+    "position": [
+      1366,
+      1396
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bun/creatinine",
+    "position": [
+      1403,
+      1417
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct bụng",
+    "position": [
+      1450,
+      1462
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch và mỡ",
+    "position": [
+      1515,
+      1525
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quai ruột kết sigma",
+    "position": [
+      1540,
+      1559
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm túi mật cấp tính không biến chứng",
+    "position": [
+      1567,
+      1605
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      34,
+      52
+    ]
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      55,
+      82
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      160,
+      166
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      199,
+      205
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      248,
+      254
+    ]
+  },
+  {
+    "text": "Khó thở tăng khi vận động gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      258,
+      291
+    ]
+  },
+  {
+    "text": "Đi lại khó khăn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      295,
+      309
+    ]
+  },
+  {
+    "text": "Đau hai bàn chân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      341,
+      356
+    ]
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      361,
+      388
+    ]
+  },
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      434,
+      472
+    ]
+  },
+  {
+    "text": "có dị tật cố định vùng trước vách và vách dưới với giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năng thất trái",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      621,
+      639
+    ]
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      650,
+      689
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành can thiệp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      721,
+      749
+    ]
+  },
+  {
+    "text": "Can thiệp mạch vành qua da",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      753,
+      778
+    ]
+  },
+  {
+    "text": "stent phủ thuốc (DES)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      787,
+      807
+    ]
+  }
+]

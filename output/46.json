@@ -1,0 +1,76 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      59,
+      71
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      213,
+      223
+    ]
+  },
+  {
+    "text": "khó kiểm soát huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      247,
+      268
+    ]
+  },
+  {
+    "text": "đi khập khiễng cách quãng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      284,
+      308
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      343,
+      367
+    ]
+  },
+  {
+    "text": "tắc hẹp 80% động mạch thận trái L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      393,
+      425
+    ]
+  },
+  {
+    "text": "chụp mạch máu thận",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      586,
+      603
+    ]
+  },
+  {
+    "text": "stent",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      611,
+      615
+    ]
+  }
+]

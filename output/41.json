@@ -1,0 +1,554 @@
+[
+  {
+    "text": "loét tá tràng",
+    "position": [
+      390,
+      403
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thực quản độ C",
+    "position": [
+      478,
+      497
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét thực quản",
+    "position": [
+      499,
+      513
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "6 mm",
+    "position": [
+      519,
+      523
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điểm sắc tố",
+    "position": [
+      527,
+      538
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhiều loét nông sạch đáy ở tá tràng và hồi tràng",
+    "position": [
+      540,
+      588
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      625,
+      635
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      937,
+      945
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      949,
+      958
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1127,
+      1137
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tình trạng đau bụng",
+    "position": [
+      1104,
+      1123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1168,
+      1178
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "hội chứng ruột kích thích",
+    "position": [
+      1277,
+      1302
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K58.2"
+    ]
+  },
+  {
+    "text": "loét tá tràng",
+    "position": [
+      1314,
+      1327
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K26.0"
+    ]
+  },
+  {
+    "text": "viêm dạ dày ruột do virus",
+    "position": [
+      1406,
+      1431
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A08.39"
+    ]
+  },
+  {
+    "text": "viêm dạ dày ruột do virus",
+    "position": [
+      1460,
+      1485
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A08.39"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1534,
+      1542
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1544,
+      1553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1555,
+      1565
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiều loét tá tràng và hồi tràng",
+    "position": [
+      1584,
+      1616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [
+      1618,
+      1628
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân tìm cryptosporidium",
+    "position": [
+      1640,
+      1664
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1695,
+      1705
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1753,
+      1763
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1776,
+      1784
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1788,
+      1798
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1846,
+      1856
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn ra máu",
+    "position": [
+      1894,
+      1904
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ăn uống kém",
+    "position": [
+      1911,
+      1922
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nausea",
+    "position": [
+      1930,
+      1936
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "diarrhea",
+    "position": [
+      1943,
+      1951
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "abdominal pain",
+    "position": [
+      1958,
+      1972
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm dạ dày ruột do virus",
+    "position": [
+      2025,
+      2050
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "A08.39"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      2120,
+      2128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      2132,
+      2141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      2473,
+      2483
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "dương tính xét nghiệm phân tìm cryptosporidium",
+    "position": [
+      2744,
+      2790
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "test hơi thở",
+    "position": [
+      2840,
+      2852
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      2876,
+      2886
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1811631"
+    ]
+  },
+  {
+    "text": "nội soi",
+    "position": [
+      2925,
+      2932
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét tá tràng và hồi tràng",
+    "position": [
+      2982,
+      3008
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thực quản độ C",
+    "position": [
+      3025,
+      3044
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét thực quản",
+    "position": [
+      3046,
+      3060
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "6 mm",
+    "position": [
+      3066,
+      3070
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điểm sắc tố",
+    "position": [
+      3074,
+      3085
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét nông sạch đáy ở tá tràng và hồi tràng sớm",
+    "position": [
+      3093,
+      3139
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thực quản độ C ở thực quản dưới",
+    "position": [
+      3180,
+      3216
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Loét loét thực quản 6 mm có điểm sắc tố",
+    "position": [
+      3223,
+      3262
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét sạch đáy loét ở tá tràng kéo dài từ hành tá tràng đến hồi tràng sớm",
+    "position": [
+      3275,
+      3347
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

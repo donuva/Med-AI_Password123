@@ -1,0 +1,98 @@
+[
+  {
+    "text": "ung thư vú trái giai IIIB",
+    "position": [
+      58,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "levafloxacin và cephalexin",
+    "position": [
+      698,
+      724
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2231"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      562,
+      568
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      792,
+      801
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      562,
+      568
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khi sờ nắn vùng mổ",
+    "position": [
+      987,
+      1009
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      792,
+      801
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [
+      1032,
+      1041
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vancomycin",
+    "position": [
+      1351,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1807508"
+    ]
+  }
+]

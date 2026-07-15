@@ -1,0 +1,143 @@
+[
+  {
+    "text": "bệnh lý bất thường",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      40,
+      57
+    ]
+  },
+  {
+    "text": "Đờm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      107,
+      109
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      21,
+      22
+    ]
+  },
+  {
+    "text": "đau bụng quặn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      126,
+      138
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      142,
+      150
+    ]
+  },
+  {
+    "text": "đi ngoài ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      162,
+      176
+    ]
+  },
+  {
+    "text": "tăng cân nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      186,
+      199
+    ]
+  },
+  {
+    "text": "cea (kháng nguyên ung thư phôi)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      247,
+      277
+    ]
+  },
+  {
+    "text": "4.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      292,
+      294
+    ]
+  },
+  {
+    "text": "mri vùng chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      325,
+      337
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      402,
+      408
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      553,
+      562
+    ]
+  },
+  {
+    "text": "khối u trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      625,
+      641
+    ]
+  },
+  {
+    "text": "u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      664,
+      678
+    ]
+  },
+  {
+    "text": "u tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      718,
+      724
+    ]
+  }
+]

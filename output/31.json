@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Khởi phát chuyển dạ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      17,
+      35
+    ]
+  },
+  {
+    "text": "cơn co tử cung",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      101,
+      114
+    ]
+  },
+  {
+    "text": "thai máy tốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      118,
+      129
+    ]
+  },
+  {
+    "text": "ra huyết âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      146,
+      160
+    ]
+  },
+  {
+    "text": "vỡ ối/rỉ ối",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      175,
+      185
+    ]
+  }
+]

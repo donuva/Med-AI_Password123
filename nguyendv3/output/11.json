@@ -1,0 +1,106 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      57,
+      70
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "bệnh gút không đặc hiệu",
+    "position": [
+      77,
+      100
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M10.9"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      107,
+      120
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I12.9"
+    ]
+  },
+  {
+    "text": "ung thư đại tràng",
+    "position": [
+      143,
+      160
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z15.060"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      167,
+      174
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "xơ gan mất bù",
+    "position": [
+      191,
+      204
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cổ trướng",
+    "position": [
+      235,
+      244
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "position": [
+      248,
+      267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

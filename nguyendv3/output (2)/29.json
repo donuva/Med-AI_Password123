@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tiểu tiện không tự chủ",
+    "position": [
+      70,
+      92
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sa âm đạo",
+    "position": [
+      96,
+      105
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bàng quang căng",
+    "position": [
+      214,
+      229
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác bí tiếu",
+    "position": [
+      233,
+      249
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

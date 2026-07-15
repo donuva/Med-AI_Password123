@@ -1,0 +1,131 @@
+[
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      61
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      69,
+      81
+    ]
+  },
+  {
+    "text": "phình mạch ACom bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      145,
+      168
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      209,
+      222
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      230,
+      242
+    ]
+  },
+  {
+    "text": "triệu chứng liên quan đến tai biến mạch máu não",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      338,
+      384
+    ]
+  },
+  {
+    "text": "phình mạch ACom bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      498,
+      521
+    ]
+  },
+  {
+    "text": "chụp mạch máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      545,
+      557
+    ]
+  },
+  {
+    "text": "hẹp khoảng 65% của động mạch cảnh chung trái gần gốc",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      580,
+      631
+    ]
+  },
+  {
+    "text": "xơ vữa mảng loét",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      648,
+      663
+    ]
+  },
+  {
+    "text": "chụp mạch máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      875,
+      887
+    ]
+  },
+  {
+    "text": "hẹp khoảng 65% của động mạch cảnh chung trái gần gốc",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      909,
+      960
+    ]
+  },
+  {
+    "text": "xơ vữa mảng loét",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      977,
+      992
+    ]
+  }
+]

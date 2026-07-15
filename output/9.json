@@ -1,0 +1,154 @@
+[
+  {
+    "text": "u cơ trơn tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      39,
+      55
+    ]
+  },
+  {
+    "text": "iron",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      104,
+      107
+    ]
+  },
+  {
+    "text": "đau bụng dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      165,
+      177
+    ]
+  },
+  {
+    "text": "chảy máu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      182,
+      195
+    ]
+  },
+  {
+    "text": "lower abdominal pain",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      228,
+      247
+    ]
+  },
+  {
+    "text": "chảy máu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      255,
+      268
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      312,
+      318
+    ]
+  },
+  {
+    "text": "huyết cầu tố",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      352,
+      363
+    ]
+  },
+  {
+    "text": "26.1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      368,
+      371
+    ]
+  },
+  {
+    "text": "u xơ tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      542,
+      553
+    ]
+  },
+  {
+    "text": "huyết cầu tố",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      694,
+      705
+    ]
+  },
+  {
+    "text": "26.1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      707,
+      710
+    ]
+  },
+  {
+    "text": "siêu âm tử cung",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      749,
+      763
+    ]
+  },
+  {
+    "text": "U cơ trơn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      829,
+      837
+    ]
+  },
+  {
+    "text": "dịch tự do trong túi cùng Douglas",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1008,
+      1040
+    ]
+  },
+  {
+    "text": "giãn bể thận",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1057,
+      1068
+    ]
+  }
+]

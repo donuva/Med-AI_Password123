@@ -1,0 +1,74 @@
+[
+  {
+    "text": "không có bệnh lý khác",
+    "position": [
+      68,
+      89
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "position": [
+      134,
+      165
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) cột sống cổ",
+    "position": [
+      359,
+      396
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) lồng ngực",
+    "position": [
+      425,
+      460
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy vụn",
+    "position": [
+      521,
+      528
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đụng dập",
+    "position": [
+      533,
+      541
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phổi",
+    "position": [
+      558,
+      562
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

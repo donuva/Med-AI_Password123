@@ -1,0 +1,190 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [
+      108,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      121,
+      135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bị bạn bè trêu chọc",
+    "position": [
+      293,
+      312
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn chán",
+    "position": [
+      314,
+      323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uống nhiều rượu",
+    "position": [
+      325,
+      340
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hút cần sa",
+    "position": [
+      341,
+      351
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tự tử",
+    "position": [
+      427,
+      432
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      441,
+      460
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm",
+    "position": [
+      555,
+      563
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "F32.A"
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới nghiêm trọng",
+    "position": [
+      633,
+      665
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "position": [
+      678,
+      719
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cắt cụt chân phải bên dưới gối",
+    "position": [
+      724,
+      754
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến chứng thuyên tắc phổi hai bên",
+    "position": [
+      757,
+      791
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "position": [
+      795,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nghĩ tích cực",
+    "position": [
+      1011,
+      1028
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tương lai",
+    "position": [
+      1038,
+      1047
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chấn thương từ bên ngoài",
+    "position": [
+      1090,
+      1114
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổn định",
+    "position": [
+      1127,
+      1134
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

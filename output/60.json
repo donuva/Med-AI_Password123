@@ -1,0 +1,63 @@
+[
+  {
+    "text": "phẫu thuật tạo đáy vị (fundoplication)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      62,
+      99
+    ]
+  },
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      149,
+      175
+    ]
+  },
+  {
+    "text": "triệu chứng trào ngược",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      242,
+      263
+    ]
+  },
+  {
+    "text": "triệu chứng trào ngược",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      528,
+      549
+    ]
+  },
+  {
+    "text": "thoát vị hoành",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      638,
+      651
+    ]
+  },
+  {
+    "text": "thoát vị cạnh thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      694,
+      716
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "text": "viêm tủy xương",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      52,
+      65
+    ]
+  },
+  {
+    "text": "bàng quang thần kinh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      70,
+      89
+    ]
+  },
+  {
+    "text": "liệt hai chi dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      105,
+      121
+    ]
+  },
+  {
+    "text": "biến đổi ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      166,
+      180
+    ]
+  },
+  {
+    "text": "hạ thân nhiệt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      191,
+      203
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      208,
+      218
+    ]
+  },
+  {
+    "text": "huyết áp tâm thu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      426,
+      441
+    ]
+  },
+  {
+    "text": "90",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      446,
+      447
+    ]
+  },
+  {
+    "text": "đau toàn thân ít",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      544,
+      559
+    ]
+  },
+  {
+    "text": "đau ngực ít",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      567,
+      577
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      586,
+      593
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      730,
+      733
+    ]
+  },
+  {
+    "text": "6.6 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      738,
+      747
+    ]
+  },
+  {
+    "text": "creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      755,
+      763
+    ]
+  },
+  {
+    "text": "1.9 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      768,
+      777
+    ]
+  },
+  {
+    "text": "tiểu cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      785,
+      792
+    ]
+  },
+  {
+    "text": "81 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      797,
+      802
+    ]
+  },
+  {
+    "text": "bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      810,
+      817
+    ]
+  },
+  {
+    "text": "10.9 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      822,
+      829
+    ]
+  },
+  {
+    "text": "tổng phân tích nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      837,
+      860
+    ]
+  },
+  {
+    "text": "nhiễm trùng đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      862,
+      888
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      947,
+      963
+    ]
+  },
+  {
+    "text": "tổn thương viêm cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      992,
+      1015
+    ]
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1179,
+      1189
+    ]
+  },
+  {
+    "text": "nhịp chậm xoang",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1200,
+      1214
+    ]
+  },
+  {
+    "text": "đường huyết lúc đói",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1219,
+      1237
+    ]
+  },
+  {
+    "text": "đường huyết thấp",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1238,
+      1253
+    ]
+  }
+]

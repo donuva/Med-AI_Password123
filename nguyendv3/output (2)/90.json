@@ -1,0 +1,22 @@
+[
+  {
+    "text": "giọng khàn",
+    "position": [
+      37,
+      47
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương dây thanh quản",
+    "position": [
+      51,
+      76
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "text": "tràn dịch màng phổi trái tái phát",
+    "position": [
+      44,
+      77
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng ngoài tim mức độ trung bình",
+    "position": [
+      156,
+      198
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+    "position": [
+      227,
+      274
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

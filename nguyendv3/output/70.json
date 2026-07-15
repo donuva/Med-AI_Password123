@@ -1,0 +1,166 @@
+[
+  {
+    "text": "khó chịu",
+    "position": [
+      52,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thuyên giảm khi dùng thuốc",
+    "position": [
+      90,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc trước khi nhập viện",
+    "position": [
+      117,
+      142
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2716551"
+    ]
+  },
+  {
+    "text": "acetaminophen 500mg",
+    "position": [
+      171,
+      190
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1087607"
+    ]
+  },
+  {
+    "text": "10 pills",
+    "position": [
+      199,
+      207
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1175593"
+    ]
+  },
+  {
+    "text": "khi cơn đau dữ dội",
+    "position": [
+      218,
+      236
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "viên",
+    "position": [
+      247,
+      251
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chai thuốc an thần",
+    "position": [
+      305,
+      323
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "46356"
+    ]
+  },
+  {
+    "text": "acetaminophen 500mg",
+    "position": [
+      1183,
+      1202
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1087607"
+    ]
+  },
+  {
+    "text": "tăng men gan",
+    "position": [
+      1312,
+      1324
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bilirubin máu",
+    "position": [
+      1329,
+      1347
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ast 421",
+    "position": [
+      1349,
+      1356
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "336",
+    "position": [
+      1362,
+      1365
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "185",
+    "position": [
+      1371,
+      1374
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

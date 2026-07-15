@@ -1,0 +1,16 @@
+[
+  {
+    "text": "tâm thần phân liệt",
+    "position": [
+      108,
+      126
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F20.0"
+    ]
+  }
+]

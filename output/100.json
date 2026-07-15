@@ -1,0 +1,331 @@
+[
+  {
+    "text": "tăng calci máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      61,
+      74
+    ]
+  },
+  {
+    "text": "U ác của đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      123,
+      140
+    ]
+  },
+  {
+    "text": "cường cận giáp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      148,
+      173
+    ]
+  },
+  {
+    "text": "Xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      181,
+      196
+    ]
+  },
+  {
+    "text": "cơn đau thắt ngực ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      204,
+      228
+    ]
+  },
+  {
+    "text": "tăng calci máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      275,
+      288
+    ]
+  },
+  {
+    "text": "tăng calci máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      316,
+      329
+    ]
+  },
+  {
+    "text": "canxi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      446,
+      450
+    ]
+  },
+  {
+    "text": "12.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      455,
+      458
+    ]
+  },
+  {
+    "text": "canxi ion hóa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      461,
+      473
+    ]
+  },
+  {
+    "text": "6.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      475,
+      477
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      504,
+      511
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      673,
+      680
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      683,
+      689
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      692,
+      700
+    ]
+  },
+  {
+    "text": "động kinh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      741,
+      749
+    ]
+  },
+  {
+    "text": "MRI",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      769,
+      771
+    ]
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      796,
+      829
+    ]
+  },
+  {
+    "text": "tổn thương cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      841,
+      859
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      895,
+      902
+    ]
+  },
+  {
+    "text": "01 viên nitroglycerin đặt dưới lưỡi",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      988,
+      1022
+    ]
+  },
+  {
+    "text": "đau ở sau đầu và cổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1053,
+      1071
+    ]
+  },
+  {
+    "text": "canxi toàn phần",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1177,
+      1191
+    ]
+  },
+  {
+    "text": "12.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1196,
+      1199
+    ]
+  },
+  {
+    "text": "canxi ion hóa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1202,
+      1214
+    ]
+  },
+  {
+    "text": "6.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1216,
+      1218
+    ]
+  },
+  {
+    "text": "canx toàn phầni",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1226,
+      1240
+    ]
+  },
+  {
+    "text": "12.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1245,
+      1248
+    ]
+  },
+  {
+    "text": "cr (creatinine)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1256,
+      1270
+    ]
+  },
+  {
+    "text": "1.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1272,
+      1274
+    ]
+  },
+  {
+    "text": "MRI",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1308,
+      1310
+    ]
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1341,
+      1374
+    ]
+  },
+  {
+    "text": "quá trình cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1391,
+      1408
+    ]
+  },
+  {
+    "text": "Laxis 20mg tiêm tĩnh mạch",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1441,
+      1465
+    ]
+  },
+  {
+    "text": "Truyền dịch Natriclori 0.9 % tĩnh mạch",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      -1,
+      -1
+    ]
+  }
+]

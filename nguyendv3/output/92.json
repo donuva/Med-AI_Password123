@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+    "position": [
+      45,
+      84
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT",
+    "position": [
+      295,
+      302
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tuyến trước",
+    "position": [
+      305,
+      316
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lơ mơ",
+    "position": [
+      415,
+      420
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng",
+    "position": [
+      472,
+      485
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": " trước chưa phát hiện bất thường trên phim chụp",
+    "position": [
+      310,
+      357
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Theo dõi đại tràng giãn",
+    "position": [
+      589,
+      612
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

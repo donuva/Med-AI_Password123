@@ -1,0 +1,78 @@
+[
+  {
+    "text": "rối loạn lo âu, không biệt định nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      39,
+      82
+    ]
+  },
+  {
+    "text": "phẫu thuật nội soi cắt bỏ tuyến tiền liệt  bên trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      120,
+      170
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      206,
+      213
+    ]
+  },
+  {
+    "text": "đau dai dẳng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      216,
+      227
+    ]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      233,
+      239
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      272,
+      279
+    ]
+  },
+  {
+    "text": "đau dai dẳng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      287,
+      298
+    ]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      306,
+      312
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "loét mới ở ngón chân út bên phải",
+    "position": [
+      204,
+      236
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét đau",
+    "position": [
+      268,
+      276
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét đỏ",
+    "position": [
+      283,
+      290
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét sưng",
+    "position": [
+      297,
+      306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

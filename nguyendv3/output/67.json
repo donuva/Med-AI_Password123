@@ -1,0 +1,22 @@
+[
+  {
+    "text": "sỏi mật",
+    "position": [
+      406,
+      413
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FNA của một nốt sần tuyến giáp phải có cấu trúc vi nang",
+    "position": [
+      448,
+      503
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

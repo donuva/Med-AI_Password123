@@ -1,0 +1,180 @@
+[
+  {
+    "text": "nhiễm trùng tụ cầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      94,
+      111
+    ]
+  },
+  {
+    "text": "cảm giác như vòi nước",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      219,
+      239
+    ]
+  },
+  {
+    "text": "cảm giác như bị xịt nước bắt đầu ở ngực trái lan sang ngực phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      267,
+      329
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      391,
+      405
+    ]
+  },
+  {
+    "text": "siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      426,
+      436
+    ]
+  },
+  {
+    "text": "hẹp van động mạch chủ nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      447,
+      480
+    ]
+  },
+  {
+    "text": "siêu âm tim gắng sức dobutamine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      628,
+      658
+    ]
+  },
+  {
+    "text": "thông tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      732,
+      740
+    ]
+  },
+  {
+    "text": "thông tim trái",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      777,
+      790
+    ]
+  },
+  {
+    "text": "hẹp gây hạn chế dòng chảy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      807,
+      831
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      977,
+      983
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      986,
+      993
+    ]
+  },
+  {
+    "text": "khó thở khi nằm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      996,
+      1010
+    ]
+  },
+  {
+    "text": "khó thở khi ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1013,
+      1027
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1034,
+      1041
+    ]
+  },
+  {
+    "text": "cảm giác tương tự ở ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1057,
+      1080
+    ]
+  },
+  {
+    "text": "chụp tim mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1362,
+      1374
+    ]
+  },
+  {
+    "text": "LHC",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1382,
+      1384
+    ]
+  }
+]

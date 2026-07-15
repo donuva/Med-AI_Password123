@@ -1,0 +1,16 @@
+[
+  {
+    "text": "3 stent",
+    "position": [
+      257,
+      264
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "465869"
+    ]
+  }
+]

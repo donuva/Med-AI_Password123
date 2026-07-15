@@ -1,0 +1,60 @@
+[
+  {
+    "text": "BKpop-DP bypass bằng tĩnh mạch hiển",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      77,
+      111
+    ]
+  },
+  {
+    "text": "đặt stent động mạch thận trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      127,
+      155
+    ]
+  },
+  {
+    "text": "loét mới ở ngón chân út bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      204,
+      235
+    ]
+  },
+  {
+    "text": "loét đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      268,
+      275
+    ]
+  },
+  {
+    "text": "loét đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      283,
+      289
+    ]
+  },
+  {
+    "text": "loét sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      297,
+      305
+    ]
+  }
+]

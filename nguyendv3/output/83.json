@@ -1,0 +1,52 @@
+[
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [
+      59,
+      79
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [
+      59,
+      79
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hở van hai lá nặng",
+    "position": [
+      268,
+      286
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có bệnh động mạch vành",
+    "position": [
+      318,
+      346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lợi tiểu",
+    "position": [
+      364,
+      372
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

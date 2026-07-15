@@ -1,0 +1,42 @@
+[
+  {
+    "text": "tách thành động mạch chủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      71
+    ]
+  },
+  {
+    "text": "liệt hai chân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      89,
+      101
+    ]
+  },
+  {
+    "text": "rung động tại vị trí lỗ rò",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      274,
+      299
+    ]
+  },
+  {
+    "text": "Rò động - tĩnh mạch đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      335,
+      362
+    ]
+  }
+]

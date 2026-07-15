@@ -1,0 +1,443 @@
+[
+  {
+    "text": "Rối loạn cảm xúc (trầm cảm)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      51,
+      77
+    ]
+  },
+  {
+    "text": "trầm cảm không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      98,
+      120
+    ]
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      129,
+      149
+    ]
+  },
+  {
+    "text": "seroquel",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      190,
+      197
+    ]
+  },
+  {
+    "text": "lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      229,
+      234
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      237,
+      245
+    ]
+  },
+  {
+    "text": "khó nhìn gần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      248,
+      259
+    ]
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      323,
+      343
+    ]
+  },
+  {
+    "text": "tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      400,
+      404
+    ]
+  },
+  {
+    "text": "Lú lẫn từng đợt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      477,
+      491
+    ]
+  },
+  {
+    "text": "cảm giác chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      507,
+      524
+    ]
+  },
+  {
+    "text": "khó khăn khi nhìn gần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      532,
+      552
+    ]
+  },
+  {
+    "text": "rối loạn thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      560,
+      576
+    ]
+  },
+  {
+    "text": "nhìn thấy con cái mình ở góc mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      579,
+      610
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      618,
+      633
+    ]
+  },
+  {
+    "text": "Ảo thanh (AH)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      660,
+      672
+    ]
+  },
+  {
+    "text": "ảo giác thính giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      675,
+      692
+    ]
+  },
+  {
+    "text": "tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      465,
+      469
+    ]
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      817,
+      822
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      840,
+      848
+    ]
+  },
+  {
+    "text": "Khó khăn về thị lực gần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      856,
+      878
+    ]
+  },
+  {
+    "text": "rối loạn thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      886,
+      902
+    ]
+  },
+  {
+    "text": "nhìn thấy con cái ở góc mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      905,
+      931
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      636,
+      651
+    ]
+  },
+  {
+    "text": "Ảo thanh (AH)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      957,
+      969
+    ]
+  },
+  {
+    "text": "chụp ct sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1278,
+      1287
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1335,
+      1352
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1360,
+      1379
+    ]
+  },
+  {
+    "text": "không phát hiện bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1384,
+      1409
+    ]
+  },
+  {
+    "text": "đánh giá thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1417,
+      1434
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1443,
+      1460
+    ]
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1468,
+      1492
+    ]
+  },
+  {
+    "text": "tự tử chủ động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1626,
+      1639
+    ]
+  },
+  {
+    "text": "ý định",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1642,
+      1647
+    ]
+  },
+  {
+    "text": "kế hoạch hiện tại",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1650,
+      1666
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1754,
+      1773
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1778,
+      1784
+    ]
+  },
+  {
+    "text": "chụp ct sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1818,
+      1827
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1840,
+      1857
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1916,
+      1935
+    ]
+  },
+  {
+    "text": "đánh giá thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1997,
+      2014
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2023,
+      2040
+    ]
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2048,
+      2072
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2136,
+      2153
+    ]
+  },
+  {
+    "text": "Bệnh đa xơ cứng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2185,
+      2199
+    ]
+  },
+  {
+    "text": "Ảo giác do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      2240,
+      2254
+    ]
+  },
+  {
+    "text": "loạn thần",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2299,
+      2307
+    ]
+  }
+]

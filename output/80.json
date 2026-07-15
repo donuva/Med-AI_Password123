@@ -1,0 +1,85 @@
+[
+  {
+    "text": "bệnh lý khác",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      77,
+      88
+    ]
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      134,
+      164
+    ]
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      304,
+      334
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) cột sống cổ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      359,
+      395
+    ]
+  },
+  {
+    "text": "không thấy tổn thương",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      397,
+      417
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) lồng ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      425,
+      459
+    ]
+  },
+  {
+    "text": "gãy 3 xương sườn 9, 10 và 11",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      470,
+      497
+    ]
+  },
+  {
+    "text": "xương sườn thứ 10 bị gãy vụn",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      500,
+      527
+    ]
+  },
+  {
+    "text": "đụng dập một vùng nhu mô phổi nhỏ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      533,
+      565
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "text": "nốt tuyến giáp thùy trái",
+    "position": [
+      190,
+      214
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bất thường",
+    "position": [
+      382,
+      392
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nuốt",
+    "position": [
+      568,
+      576
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      578,
+      585
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khàn tiếng",
+    "position": [
+      591,
+      601
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chọc hút bất thường của nốt tuyến giáp trái",
+    "position": [
+      659,
+      702
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả tế bào học từ dịch chọc hút nốt tuyến giáp trái ghi nhận bất thường",
+    "position": [
+      751,
+      826
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chọc hút bằng kim nhỏ",
+    "position": [
+      852,
+      873
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nốt tuyến giáp trái",
+    "position": [
+      787,
+      806
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nốt tuyến giáp thùy trái",
+    "position": [
+      916,
+      940
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "text": "tái phát u ác trực tràng",
+    "position": [
+      39,
+      63
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "position": [
+      66,
+      93
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cắt bỏ một phần thận phải",
+    "position": [
+      98,
+      123
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cắt bỏ tuyến thượng thận phải",
+    "position": [
+      212,
+      241
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vancomycin",
+    "position": [
+      298,
+      308
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1807508"
+    ]
+  },
+  {
+    "text": "ceftazidime",
+    "position": [
+      311,
+      322
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1603840"
+    ]
+  },
+  {
+    "text": "amiodarone",
+    "position": [
+      325,
+      335
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1046406"
+    ]
+  },
+  {
+    "text": "thay thế bicarbonate",
+    "position": [
+      338,
+      358
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2594484"
+    ]
+  },
+  {
+    "text": "tái phát u ác trực tràng",
+    "position": [
+      39,
+      63
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thỉnh thoảng có máu trong phân",
+    "position": [
+      563,
+      593
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi thuỳ",
+    "position": [
+      655,
+      669
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.1"
+    ]
+  },
+  {
+    "text": "chụp x-quang",
+    "position": [
+      686,
+      698
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vancomycin trong 7 ngày",
+    "position": [
+      728,
+      751
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "vancomycinvà ceftazidime",
+    "position": [
+      763,
+      787
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2191"
+    ]
+  },
+  {
+    "text": "rung nhĩ điển hình",
+    "position": [
+      815,
+      833
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đáp ứng thất nhanh",
+    "position": [
+      843,
+      861
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn huyết động",
+    "position": [
+      865,
+      884
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amiodarone",
+    "position": [
+      950,
+      960
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1046406"
+    ]
+  },
+  {
+    "text": "rối loạn cân bằng kiềm toan phối hợp",
+    "position": [
+      977,
+      1013
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "24.5",
+    "position": [
+      1075,
+      1079
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "26.1",
+    "position": [
+      1093,
+      1097
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "24.7",
+    "position": [
+      1245,
+      1249
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "98.1 11663",
+    "position": [
+      1336,
+      1346
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99",
+    "position": [
+      1348,
+      1350
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "17",
+    "position": [
+      1352,
+      1354
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99 RA",
+    "position": [
+      1356,
+      1361
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Báo cáo phân ít và không có máu từ trực tràng",
+    "position": [
+      1482,
+      1527
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng ở chân trái",
+    "position": [
+      1559,
+      1575
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ",
+    "position": [
+      1577,
+      1585
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhẹ",
+    "position": [
+      1587,
+      1594
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      1633,
+      1642
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân và máu trong trực tràng",
+    "position": [
+      1645,
+      1673
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi thuỳ",
+    "position": [
+      1691,
+      1705
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rung cuống nhĩ với đáp ứng thất nhanh",
+    "position": [
+      1724,
+      1761
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm huyết động",
+    "position": [
+      1764,
+      1783
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn cân bằng kiềm toan phối hợp",
+    "position": [
+      1786,
+      1822
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ",
+    "position": [
+      1831,
+      1839
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhẹ ở mắt cá chân trái",
+    "position": [
+      1841,
+      1867
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm",
+    "position": [
+      1911,
+      1921
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "24.7",
+    "position": [
+      1978,
+      1982
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "98.1 11663",
+    "position": [
+      2253,
+      2263
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99",
+    "position": [
+      2265,
+      2267
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "17",
+    "position": [
+      2269,
+      2271
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99 RA",
+    "position": [
+      2273,
+      2278
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Báo cáo phân ít và không có máu từ trực tràng",
+    "position": [
+      2405,
+      2450
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng",
+    "position": [
+      2482,
+      2486
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ",
+    "position": [
+      2488,
+      2496
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhẹ",
+    "position": [
+      2498,
+      2505
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -137,35 +137,7 @@ def extract_entities(text):
 
 
 text = """
-1.  Tiền sử bệnh nội khoa
-    Bệnh lý mãn tính: U Sacoit tổn thương chủ yếu tại tim.
-
-2.  Tiền sử bệnh hiện tại
-    Lý do nhập viện: ho x1 ngày và kèm theo ho ra máu cỡ đồng xu x3 đêm qua
-    Thời điểm khởi phát triệu chứng
-    - ho x1 ngày
-    - ho ra máu x3 đêm qua
-    Diễn biến bệnh
-    - Các triệu chứng bắt đầu với ho và mệt mỏi
-    - Tối qua tiến triển thành 3 cơn ho đánh thức bệnh nhân khỏi giấc ngủ và có đờm có màu hồng
-    - Sau đó 2 giờ, bệnh nhân sốt đến 38.8°C (101.8°F)
-    - Không có thêm ho ra máu kể từ sáng nay
-    Triệu chứng hiện tại
-    - ho
-    - mệt mỏi
-    - ho ra máu cỡ đồng xu x3 đêm qua
-    - Đờm pha màu hồng
-    - fever (trở thành sốt đến 38.8°C)
-    - Đau bụng  âm ỉ  trong tháng qua 
-   - Các diễn biến  trước khi nhập viện
-    - Đến gặp bác sĩ chăm sóc chính sáng nay
-    - Được chuyển đến phòng cấp cứu khám và điều trị
-    - Được cho dùng levofloxacin vì nghi ngờ viêm phế quản do viêm phổi mắc phải cộng đồng ở bệnh nhân phức tạp,  cùng tylenol
-
-3.  Đánh giá tại bệnh viện
-    Kết quả xét nghiệm: công thức máu (cbc) nâng cao lên 11.3
-    Kết quả chẩn đoán hình ảnh: chụp x-quang ngực không phát hiện viêm phổi hoặc phù phổi
-    Các thủ thuật đã thực hiện: Lấy mẫu cấy máu
+1'Danh sách thuốc trước nhập viện chính xác và đầy đủ. 1. amlodipine 10 mg po daily 2. aspirin 81 mg po daily 3. metoprolol succinate xl 50 mg po daily 4. guaifenesin ml po q6h:prn điều trị ho 5. nystatin oral suspension 5 ml po qid:prn điều trị đau nhức 6. acetaminophen 325-650 mg po q6h:prn điều trị sốt đau 7. pravastatin 40 mg po daily 8. docusate sodium 100 mg po bid điều trị táo bón 9. senna 8.6 mg po bid:prn điều trị táo bón 10. clonazepam 0.5 mg po qam:prn điều trị lo âu 11. clonazepam 1.5 mg po qhs điều trị lo âu mất ngủ'
 """
 
 result = extract_entities(text)

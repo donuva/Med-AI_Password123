@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Ung thư vú di căn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      25,
+      41
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi trái tái phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      44,
+      76
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      116,
+      122
+    ]
+  },
+  {
+    "text": "tràn dịch màng ngoài tim mức độ trung bình",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      156,
+      197
+    ]
+  },
+  {
+    "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      227,
+      273
+    ]
+  },
+  {
+    "text": "talc",
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      368,
+      371
+    ]
+  }
+]

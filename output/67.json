@@ -1,0 +1,101 @@
+[
+  {
+    "text": "FNA",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      74,
+      76
+    ]
+  },
+  {
+    "text": "nốt sần tuyến giáp phải có cấu trúc vi nang",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      86,
+      128
+    ]
+  },
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      156,
+      176
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      220,
+      226
+    ]
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      237,
+      243
+    ]
+  },
+  {
+    "text": "cắt túi mật nội soi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      259,
+      277
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ tuyến giáp toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      292,
+      327
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      389,
+      395
+    ]
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      406,
+      412
+    ]
+  },
+  {
+    "text": "FNA",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      448,
+      450
+    ]
+  },
+  {
+    "text": "nốt sần tuyến giáp phải có cấu trúc vi nang",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      460,
+      502
+    ]
+  }
+]

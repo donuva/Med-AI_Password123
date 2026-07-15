@@ -1,0 +1,34 @@
+[
+  {
+    "text": "đau vùng xương bánh chè – đùi phải",
+    "position": [
+      73,
+      107
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      495,
+      498
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu gối phải",
+    "position": [
+      609,
+      625
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

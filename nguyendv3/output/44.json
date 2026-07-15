@@ -1,0 +1,286 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [
+      39,
+      47
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      50,
+      63
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      66,
+      73
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      92,
+      99
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tăng khó thở",
+    "position": [
+      139,
+      151
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [
+      154,
+      166
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      169,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng khó thở",
+    "position": [
+      139,
+      151
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      263,
+      266
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn ngất xỉu",
+    "position": [
+      288,
+      300
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát khi đi tiểu",
+    "position": [
+      317,
+      336
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "g:\n- kém",
+    "position": [
+      1126,
+      1134
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nôn mửa",
+    "position": [
+      1154,
+      1161
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cơn ngất xỉu",
+    "position": [
+      1204,
+      1216
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1352,
+      1361
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngã",
+    "position": [
+      1375,
+      1378
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "80mg po lasix",
+    "position": [
+      1432,
+      1445
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "2 sl ntg",
+    "position": [
+      1688,
+      1696
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "asa",
+    "position": [
+      1704,
+      1707
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "103863"
+    ]
+  },
+  {
+    "text": "80mg lasix iv",
+    "position": [
+      1715,
+      1728
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8mg morphine",
+    "position": [
+      1736,
+      1748
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1mg dilaudid",
+    "position": [
+      1756,
+      1768
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metoprolol",
+    "position": [
+      1783,
+      1793
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1111439"
+    ]
+  },
+  {
+    "text": "10mg iv diltiazem",
+    "position": [
+      1805,
+      1822
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim",
+    "position": [
+      1956,
+      1964
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1886,
+      1894
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

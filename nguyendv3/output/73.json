@@ -1,0 +1,181 @@
+[
+  {
+    "text": "Nhồi máu cơ tim",
+    "position": [
+      101,
+      116
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": [
+      "I25.2"
+    ]
+  },
+  {
+    "text": "Hội chứng mạch vành cấp",
+    "position": [
+      137,
+      160
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp vô căn (nguyên phát)",
+    "position": [
+      193,
+      227
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "position": [
+      250,
+      264
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.2"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "position": [
+      250,
+      264
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [
+      320,
+      341
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.65"
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      371,
+      399
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J44.9"
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      417,
+      445
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": [
+      "J44.9"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1315,
+      1323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1410,
+      1418
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có đau ngực",
+    "position": [
+      1564,
+      1581
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1583,
+      1590
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      1592,
+      1607
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Ngủ kê cao đầu",
+    "position": [
+      1641,
+      1655
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

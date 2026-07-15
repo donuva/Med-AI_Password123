@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Thuyên tắc tĩnh mạch sâu chi dưới",
+    "position": [
+      63,
+      96
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I82.491"
+    ]
+  },
+  {
+    "text": "Không thấy hình ảnh thuyên tắc mạch phổi",
+    "position": [
+      578,
+      618
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương bóc tách động mạch chủ Stanford loại B",
+    "position": [
+      630,
+      679
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính mạch máu (ctma) ngực",
+    "position": [
+      713,
+      754
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bóc tách động mạch chủ loại B",
+    "position": [
+      804,
+      833
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

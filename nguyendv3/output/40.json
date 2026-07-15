@@ -1,0 +1,260 @@
+[
+  {
+    "text": "ho đái tháo đường",
+    "position": [
+      51,
+      68
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      75,
+      88
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      95,
+      102
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ngưng thở khi ngủ do tắc nghẽn",
+    "position": [
+      109,
+      139
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      176,
+      183
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1243440"
+    ]
+  },
+  {
+    "text": "mucinex d",
+    "position": [
+      190,
+      199
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2388175"
+    ]
+  },
+  {
+    "text": "thiếu oxy",
+    "position": [
+      302,
+      311
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      298,
+      300
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghẹt ngực",
+    "position": [
+      416,
+      426
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ-vừa khó thở khi gắng sức",
+    "position": [
+      433,
+      469
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      476,
+      483
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt lên đến 101",
+    "position": [
+      504,
+      519
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      219,
+      228
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đi tiểu nhiều lần vào ban đêm",
+    "position": [
+      576,
+      605
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giãn phế quản",
+    "position": [
+      1175,
+      1188
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "azithromycin",
+    "position": [
+      1207,
+      1219
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "141962"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      1243,
+      1250
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1243440"
+    ]
+  },
+  {
+    "text": "mucinex d",
+    "position": [
+      1254,
+      1263
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2388175"
+    ]
+  },
+  {
+    "text": "12.5",
+    "position": [
+      1553,
+      1557
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết protein niệu",
+    "position": [
+      1610,
+      1626
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin âm tính",
+    "position": [
+      1636,
+      1652
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1688,
+      1705
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi thùy dưới phải (RLL PNA)",
+    "position": [
+      1718,
+      1752
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "position": [
+      57,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C92.11"
+    ]
+  },
+  {
+    "text": "tăng cholesterol máu đơn thuần",
+    "position": [
+      95,
+      125
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      132,
+      145
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      190,
+      197
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "404588"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      239,
+      250
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1944779"
+    ]
+  },
+  {
+    "text": "Thuốc giảm đau",
+    "position": [
+      293,
+      307
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      363,
+      370
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "position": [
+      515,
+      542
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P39.3"
+    ]
+  },
+  {
+    "text": "Thuốc giảm đau",
+    "position": [
+      573,
+      587
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "position": [
+      664,
+      691
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P39.3"
+    ]
+  },
+  {
+    "text": "thuốc giảm đau",
+    "position": [
+      724,
+      738
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      751,
+      758
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "404588"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      797,
+      808
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1944779"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      847,
+      854
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      919,
+      926
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      919,
+      926
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoang tưởng",
+    "position": [
+      1131,
+      1142
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo sợ",
+    "position": [
+      1143,
+      1148
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc giảm đau",
+    "position": [
+      1289,
+      1303
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      1324,
+      1331
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "404588"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      1369,
+      1380
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1944779"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1453,
+      1460
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

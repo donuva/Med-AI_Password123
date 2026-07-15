@@ -1,0 +1,64 @@
+[
+  {
+    "text": "ho",
+    "position": [
+      165,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng",
+    "position": [
+      174,
+      182
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phim chụp CT hình ảnh tổn thương tiêu xương lan tỏa phù hợp với đa u tuỷ xương",
+    "position": [
+      227,
+      305
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng IgA tăng cao",
+    "position": [
+      325,
+      348
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các tổn thương ổ tiêu xương lan tỏa",
+    "position": [
+      434,
+      469
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đa u tủy xương",
+    "position": [
+      485,
+      499
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C90.01"
+    ]
+  }
+]

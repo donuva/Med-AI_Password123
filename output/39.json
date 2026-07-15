@@ -1,0 +1,159 @@
+[
+  {
+    "text": "đau bụng dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      37,
+      51
+    ]
+  },
+  {
+    "text": "đau bụng dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      118,
+      132
+    ]
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      136,
+      146
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      150,
+      156
+    ]
+  },
+  {
+    "text": "mất ăn ngon",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      160,
+      170
+    ]
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      302,
+      312
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      315,
+      321
+    ]
+  },
+  {
+    "text": "mất ăn ngon",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      324,
+      334
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      347,
+      354
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      361,
+      363
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      412,
+      414
+    ]
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      418,
+      431
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      454,
+      466
+    ]
+  },
+  {
+    "text": "32",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      471,
+      472
+    ]
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      476,
+      487
+    ]
+  },
+  {
+    "text": "bất thường điện giải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      491,
+      510
+    ]
+  },
+  {
+    "text": "viêm túi mật thủng cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      578,
+      604
+    ]
+  }
+]

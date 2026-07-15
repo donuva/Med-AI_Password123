@@ -1,0 +1,210 @@
+[
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      54
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      62,
+      75
+    ]
+  },
+  {
+    "text": "ngừng thở khi ngủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      113,
+      129
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      154,
+      160
+    ]
+  },
+  {
+    "text": "furosemide",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      197,
+      206
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      256,
+      262
+    ]
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      455,
+      487
+    ]
+  },
+  {
+    "text": "căng cứng vai trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      495,
+      512
+    ]
+  },
+  {
+    "text": "ho có đờm trắng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      582,
+      596
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      613,
+      615
+    ]
+  },
+  {
+    "text": "phù chi dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      623,
+      634
+    ]
+  },
+  {
+    "text": "thiếu oxy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1083,
+      1091
+    ]
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1097,
+      1110
+    ]
+  },
+  {
+    "text": "86",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1115,
+      1116
+    ]
+  },
+  {
+    "text": "oxy qua mask không hồi phục (NRB)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1163,
+      1195
+    ]
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1401,
+      1417
+    ]
+  },
+  {
+    "text": "vancomycin 1 gram",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1434,
+      1450
+    ]
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1467,
+      1487
+    ]
+  },
+  {
+    "text": "aspirin 325mg",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1504,
+      1516
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebulizer",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1533,
+      1562
+    ]
+  },
+  {
+    "text": "methylprednisolone 125mg iv",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1579,
+      1605
+    ]
+  },
+  {
+    "text": "lợi tiểu 600cc",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1613,
+      1626
+    ]
+  }
+]

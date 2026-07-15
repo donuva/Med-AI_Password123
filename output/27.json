@@ -1,0 +1,329 @@
+[
+  {
+    "text": "hội chứng turner",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      63
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      87,
+      99
+    ]
+  },
+  {
+    "text": "Ung thư đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      146,
+      162
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      178,
+      192
+    ]
+  },
+  {
+    "text": "coumadin",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      204,
+      211
+    ]
+  },
+  {
+    "text": "coumadin",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      248,
+      255
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      412,
+      418
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      455,
+      461
+    ]
+  },
+  {
+    "text": "Cảm giác có đờm ở cổ họng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      470,
+      494
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      511,
+      512
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      532,
+      534
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      548,
+      554
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      568,
+      575
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      590,
+      596
+    ]
+  },
+  {
+    "text": "thay đổi tính chất cơn đau khi thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      610,
+      655
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      669,
+      688
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      702,
+      716
+    ]
+  },
+  {
+    "text": "khó thở tăng lên",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      730,
+      745
+    ]
+  },
+  {
+    "text": "Cơn nhịp nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      762,
+      775
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      789,
+      796
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      945,
+      952
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebs x2",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1018,
+      1045
+    ]
+  },
+  {
+    "text": "metoprolol 5mg iv x2",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1053,
+      1072
+    ]
+  },
+  {
+    "text": "vs",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1132,
+      1133
+    ]
+  },
+  {
+    "text": "tc 37 độ c",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1138,
+      1147
+    ]
+  },
+  {
+    "text": "hr 88",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1149,
+      1153
+    ]
+  },
+  {
+    "text": "bp 13482",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1155,
+      1162
+    ]
+  },
+  {
+    "text": "rr 14",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1164,
+      1168
+    ]
+  },
+  {
+    "text": "spo2 100ra",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1170,
+      1179
+    ]
+  },
+  {
+    "text": "hr 140",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1203,
+      1208
+    ]
+  },
+  {
+    "text": "hr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1260,
+      1261
+    ]
+  },
+  {
+    "text": "110",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1281,
+      1283
+    ]
+  },
+  {
+    "text": "metoprolol",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1298,
+      1307
+    ]
+  }
+]

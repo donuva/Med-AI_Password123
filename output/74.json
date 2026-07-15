@@ -1,0 +1,320 @@
+[
+  {
+    "text": "phẫu thuật cắt tử cung bằng nội soi toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      76,
+      118
+    ]
+  },
+  {
+    "text": "cipro",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      165,
+      169
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      177,
+      183
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      206,
+      232
+    ]
+  },
+  {
+    "text": "đau bụng dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      360,
+      372
+    ]
+  },
+  {
+    "text": "Đau tiến triển và lan vào sườn trái và LLQ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      480,
+      521
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      563,
+      570
+    ]
+  },
+  {
+    "text": "iv morphineiv morphine and toradol",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      634,
+      667
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      720,
+      726
+    ]
+  },
+  {
+    "text": "khó chịu khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      734,
+      753
+    ]
+  },
+  {
+    "text": "khó chịu khi đại tiện",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      761,
+      781
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      895,
+      921
+    ]
+  },
+  {
+    "text": "cipro",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1012,
+      1016
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1021,
+      1027
+    ]
+  },
+  {
+    "text": "đau tiến triển và lan vào sườn trái và LLQ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1075,
+      1116
+    ]
+  },
+  {
+    "text": "đau liên tục, lan tỏa ra lưng và có tính chất kéo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1124,
+      1172
+    ]
+  },
+  {
+    "text": "máu trong phân hoặc nước tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1253,
+      1281
+    ]
+  },
+  {
+    "text": "đau đớn khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1284,
+      1302
+    ]
+  },
+  {
+    "text": "tiểu gấp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1305,
+      1312
+    ]
+  },
+  {
+    "text": "triệu chứng tiết niệu khác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1323,
+      1348
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1372,
+      1379
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1382,
+      1388
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1396,
+      1403
+    ]
+  },
+  {
+    "text": "nôn mửa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1406,
+      1412
+    ]
+  },
+  {
+    "text": "chảy máu âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1420,
+      1434
+    ]
+  },
+  {
+    "text": "khí hư bất thường",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1438,
+      1454
+    ]
+  },
+  {
+    "text": "thay đổi cân nặng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1457,
+      1473
+    ]
+  },
+  {
+    "text": "công thức máu (cbc)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1527,
+      1545
+    ]
+  },
+  {
+    "text": "12 (tăng nhẹ))",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1550,
+      1563
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) bụng và chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1597,
+      1634
+    ]
+  },
+  {
+    "text": "một khoang chứa dịch phức tạp lớn kích thước 12x9x9cm nằm sâu trong vùng chậu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1645,
+      1721
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1768,
+      1772
+    ]
+  }
+]

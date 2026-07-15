@@ -1,0 +1,273 @@
+[
+  {
+    "text": "tiền sử tăng calci máu trước đây",
+    "position": [
+      53,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U ác của đại tràng",
+    "position": [
+      123,
+      141
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cường cận giáp nguyên phát",
+    "position": [
+      148,
+      174
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Xơ vữa động mạch",
+    "position": [
+      181,
+      197
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I67.2"
+    ]
+  },
+  {
+    "text": "cơn đau thắt ngực ổn định",
+    "position": [
+      204,
+      229
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng calci máu",
+    "position": [
+      275,
+      289
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.0",
+    "position": [
+      455,
+      459
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "canxi ion hóa 6.8",
+    "position": [
+      461,
+      478
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [
+      504,
+      512
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "kéo dài vài giây",
+    "position": [
+      627,
+      643
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      673,
+      681
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      683,
+      690
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      692,
+      701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "MRI ngoại trú",
+    "position": [
+      769,
+      782
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "position": [
+      796,
+      830
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      895,
+      903
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cơn đau",
+    "position": [
+      929,
+      936
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "01 viên nitroglycerin đặt dưới lưỡi",
+    "position": [
+      988,
+      1023
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "canxi toàn phần là 12.0",
+    "position": [
+      1177,
+      1200
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "canxi ion hóa 6.8",
+    "position": [
+      1202,
+      1219
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "canx toàn phầni là 12.3",
+    "position": [
+      1226,
+      1249
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cr (creatinine) 1.2",
+    "position": [
+      1256,
+      1275
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Laxis 20mg tiêm tĩnh mạch",
+    "position": [
+      1441,
+      1466
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "452107"
+    ]
+  },
+  {
+    "text": "Natriclori 0.9 %",
+    "position": [
+      1486,
+      1502
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

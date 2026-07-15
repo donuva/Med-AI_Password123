@@ -1,0 +1,124 @@
+[
+  {
+    "text": "mảng xơ vữa",
+    "position": [
+      297,
+      308
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "plavix",
+    "position": [
+      355,
+      361
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "213169"
+    ]
+  },
+  {
+    "text": "dùng nitrates",
+    "position": [
+      368,
+      381
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1315114"
+    ]
+  },
+  {
+    "text": "đau kiểu bóp nghẹt",
+    "position": [
+      600,
+      618
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9 nitroglycerin",
+    "position": [
+      629,
+      644
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "316381"
+    ]
+  },
+  {
+    "text": "đi ngủ",
+    "position": [
+      701,
+      707
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn đau",
+    "position": [
+      722,
+      729
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [
+      737,
+      746
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1014,
+      1022
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau kiểu bóp nghẹt",
+    "position": [
+      828,
+      846
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "VAS 7/10",
+    "position": [
+      878,
+      886
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

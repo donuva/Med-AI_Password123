@@ -1,0 +1,94 @@
+[
+  {
+    "text": "chống đông máu",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      39,
+      52
+    ]
+  },
+  {
+    "text": "đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      99,
+      131
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      232,
+      240
+    ]
+  },
+  {
+    "text": "inr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      418,
+      420
+    ]
+  },
+  {
+    "text": "2.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      425,
+      427
+    ]
+  },
+  {
+    "text": "rối loạn đông máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      489,
+      505
+    ]
+  },
+  {
+    "text": "tăng Cr",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      531,
+      537
+    ]
+  },
+  {
+    "text": "inr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      606,
+      608
+    ]
+  },
+  {
+    "text": "2.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      613,
+      615
+    ]
+  },
+  {
+    "text": "tăng Cr",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      619,
+      625
+    ]
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "text": "metoprolol 25mg po bid",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      53,
+      74
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      82,
+      92
+    ]
+  },
+  {
+    "text": "viêm tuyến mồ hôi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      98,
+      114
+    ]
+  },
+  {
+    "text": "atenolol",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      122,
+      129
+    ]
+  },
+  {
+    "text": "Căng thẳng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      226,
+      235
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      497,
+      511
+    ]
+  },
+  {
+    "text": "Khó thở nhẹ khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      688,
+      706
+    ]
+  },
+  {
+    "text": "cảm giác thắt chặt ngực vùng trước tim",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      714,
+      751
+    ]
+  },
+  {
+    "text": "Tăng đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      782,
+      801
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      832,
+      838
+    ]
+  },
+  {
+    "text": "mệt mỏi nhiều khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      878,
+      903
+    ]
+  },
+  {
+    "text": "mệt mỏi nhiều hơn sau khi luyện tập thể dục",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      935,
+      977
+    ]
+  },
+  {
+    "text": "giảm dung nạp gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1423,
+      1444
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1461,
+      1468
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1475,
+      1477
+    ]
+  },
+  {
+    "text": "đổ mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1480,
+      1488
+    ]
+  },
+  {
+    "text": "monitor holter",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1631,
+      1644
+    ]
+  },
+  {
+    "text": "Nhịp xoang chiếm ưu thế",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1655,
+      1677
+    ]
+  },
+  {
+    "text": "ngoại tâm thu nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1689,
+      1705
+    ]
+  },
+  {
+    "text": "ngoại tâm thu thất",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1710,
+      1727
+    ]
+  },
+  {
+    "text": "metoprolol 25mg po bid",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1772,
+      1793
+    ]
+  },
+  {
+    "text": "atenololtrong ngày",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1849,
+      1866
+    ]
+  },
+  {
+    "text": "siêu âm tim qua thành ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1929,
+      1954
+    ]
+  },
+  {
+    "text": "aspirin 325mg x 1",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      2199,
+      2215
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2223,
+      2239
+    ]
+  },
+  {
+    "text": "phân tích nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2276,
+      2294
+    ]
+  },
+  {
+    "text": "ecg",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2331,
+      2333
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2335,
+      2345
+    ]
+  },
+  {
+    "text": "khó chịu vùng ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1301,
+      1318
+    ]
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2771,
+      2781
+    ]
+  }
+]

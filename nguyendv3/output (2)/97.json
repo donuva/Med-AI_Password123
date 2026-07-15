@@ -1,0 +1,52 @@
+[
+  {
+    "text": "viêm tủy xương",
+    "position": [
+      52,
+      66
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "A01.05"
+    ]
+  },
+  {
+    "text": "bàng quang thần kinh có biến chứng liệt hai chi dưới",
+    "position": [
+      70,
+      122
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "biến đổi ý thức",
+    "position": [
+      378,
+      393
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hạ thân nhiệt",
+    "position": [
+      395,
+      408
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

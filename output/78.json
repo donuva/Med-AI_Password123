@@ -1,0 +1,174 @@
+[
+  {
+    "text": "ung thư vú",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      47,
+      56
+    ]
+  },
+  {
+    "text": "ung thư phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      64,
+      75
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      81,
+      82
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      84,
+      90
+    ]
+  },
+  {
+    "text": "thở oxy 3L/p",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      133,
+      144
+    ]
+  },
+  {
+    "text": "suy nhược toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      197,
+      215
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      260,
+      266
+    ]
+  },
+  {
+    "text": "hồi hộp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      319,
+      325
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      328,
+      342
+    ]
+  },
+  {
+    "text": "suy nhược toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      380,
+      398
+    ]
+  },
+  {
+    "text": "khó thở liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      406,
+      421
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      446,
+      447
+    ]
+  },
+  {
+    "text": "hồi hộp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      455,
+      461
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      464,
+      478
+    ]
+  },
+  {
+    "text": "chỉ số bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      498,
+      515
+    ]
+  },
+  {
+    "text": "dưới 90 %",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      536,
+      544
+    ]
+  },
+  {
+    "text": "Siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      562,
+      572
+    ]
+  },
+  {
+    "text": "chèn ép tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      575,
+      585
+    ]
+  }
+]

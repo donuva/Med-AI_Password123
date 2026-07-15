@@ -1,0 +1,216 @@
+[
+  {
+    "text": "tiền sử Đái tháo đường",
+    "position": [
+      23,
+      45
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z83.3"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      88,
+      101
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I15.0"
+    ]
+  },
+  {
+    "text": "tăng huyết áp vô căn (nguyên phát)",
+    "position": [
+      88,
+      122
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "khó chịu vùng ngực gián đoạn",
+    "position": [
+      294,
+      322
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      325,
+      334
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      337,
+      344
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi",
+    "position": [
+      357,
+      366
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      648,
+      655
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi",
+    "position": [
+      657,
+      666
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "139/68 mmhg",
+    "position": [
+      928,
+      939
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp thở 16 lần/phút",
+    "position": [
+      959,
+      979
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2 100%",
+    "position": [
+      981,
+      990
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiệt độ 36.7°c",
+    "position": [
+      1008,
+      1023
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "139/68 mmhg",
+    "position": [
+      1034,
+      1045
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp thở 16 lần/phút",
+    "position": [
+      1069,
+      1089
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "độ bão hòa oxy 100% trên khí trời",
+    "position": [
+      1091,
+      1124
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ống nội khí quản",
+    "position": [
+      1154,
+      1170
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2716551"
+    ]
+  },
+  {
+    "text": "nghiệm pháp gắng sức trên máy chạy bộ",
+    "position": [
+      1172,
+      1209
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nghiệm pháp gắng sức dương tính với thiếu máu cơ tim cục bộ",
+    "position": [
+      1240,
+      1299
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh xuống",
+    "position": [
+      1311,
+      1325
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

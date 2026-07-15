@@ -1,0 +1,32 @@
+[
+  {
+    "text": "cơn co tử cung",
+    "position": [
+      101,
+      115
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chưa  ra huyết âm đạo",
+    "position": [
+      140,
+      161
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chưa vỡ ối/rỉ ối",
+    "position": [
+      170,
+      186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

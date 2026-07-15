@@ -1,0 +1,186 @@
+[
+  {
+    "text": "viêm túi mật",
+    "position": [
+      109,
+      121
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K81.2"
+    ]
+  },
+  {
+    "text": "percocet",
+    "position": [
+      273,
+      281
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1049625"
+    ]
+  },
+  {
+    "text": "táo bón trở nên tồi tệ hơn gần đây",
+    "position": [
+      508,
+      542
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "percocet",
+    "position": [
+      582,
+      590
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1049625"
+    ]
+  },
+  {
+    "text": "đau vùng hạ vị bên phải",
+    "position": [
+      662,
+      685
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vùng hạ vị bên phải",
+    "position": [
+      662,
+      685
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      508,
+      515
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi qua đêm",
+    "position": [
+      919,
+      936
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vùng bụng dưới",
+    "position": [
+      1083,
+      1097
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau RLQLLQ",
+    "position": [
+      1099,
+      1109
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi",
+    "position": [
+      1206,
+      1215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ciproflagyl",
+    "position": [
+      1262,
+      1273
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "percocet",
+    "position": [
+      1400,
+      1408
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1049625"
+    ]
+  },
+  {
+    "text": "không ra máu",
+    "position": [
+      1503,
+      1515
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi qua đêm",
+    "position": [
+      1572,
+      1589
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm túi mật",
+    "position": [
+      1718,
+      1730
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K81.2"
+    ]
+  }
+]

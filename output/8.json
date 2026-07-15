@@ -1,0 +1,136 @@
+[
+  {
+    "text": "kết quả chọc hút bất thường của nốt tuyến giáp thùy trái",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      76,
+      131
+    ]
+  },
+  {
+    "text": "nốt tuyến giáp thùy trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      190,
+      213
+    ]
+  },
+  {
+    "text": "chọc hút bằng kim nhỏ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      278,
+      298
+    ]
+  },
+  {
+    "text": "xét nghiệm tế bào học từ dịch chọc hút",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      334,
+      371
+    ]
+  },
+  {
+    "text": "bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      382,
+      391
+    ]
+  },
+  {
+    "text": "triệu chứng chèn ép vùng cổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      536,
+      562
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      568,
+      575
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      578,
+      584
+    ]
+  },
+  {
+    "text": "khàn tiếng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      591,
+      600
+    ]
+  },
+  {
+    "text": "kết quả chọc hút bất thường của nốt tuyến giáp trái",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      651,
+      701
+    ]
+  },
+  {
+    "text": "tế bào học từ dịch chọc hút nốt tuyến giáp trái",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      759,
+      805
+    ]
+  },
+  {
+    "text": "bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      816,
+      825
+    ]
+  },
+  {
+    "text": "Chọc hút bằng kim nhỏ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      852,
+      872
+    ]
+  },
+  {
+    "text": "Nốt tuyến giáp thùy trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      916,
+      939
+    ]
+  }
+]

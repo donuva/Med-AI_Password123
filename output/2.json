@@ -1,0 +1,58 @@
+[
+  {
+    "text": "xơ gan do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      61,
+      74
+    ]
+  },
+  {
+    "text": "hội chứng não gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      191,
+      207
+    ]
+  },
+  {
+    "text": "hội chứng não gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      270,
+      286
+    ]
+  },
+  {
+    "text": "hội chứng não gan tiến triển",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      338,
+      365
+    ]
+  },
+  {
+    "text": "ý thức suy giảm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      368,
+      382
+    ]
+  },
+  {
+    "text": "hội chứng não gan",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      432,
+      448
+    ]
+  }
+]

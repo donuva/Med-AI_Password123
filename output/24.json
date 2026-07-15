@@ -1,0 +1,216 @@
+[
+  {
+    "text": "ung thư vú trái giai IIIB",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      58,
+      82
+    ]
+  },
+  {
+    "text": "ung thư vú trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      84,
+      98
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      278,
+      283
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn ở vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      288,
+      310
+    ]
+  },
+  {
+    "text": "sưng nề đau khi sờ nắn trên vùng da",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      433,
+      467
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      478,
+      483
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn trên vùng da",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      525,
+      551
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      562,
+      567
+    ]
+  },
+  {
+    "text": "levafloxacin",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      698,
+      709
+    ]
+  },
+  {
+    "text": "cephalexin",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      714,
+      723
+    ]
+  },
+  {
+    "text": "ban đỏ lan rộng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      767,
+      781
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      792,
+      800
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      938,
+      943
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn vùng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      987,
+      1008
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1016,
+      1024
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1038,
+      1040
+    ]
+  },
+  {
+    "text": "triệu chứng toàn thân khác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1076,
+      1101
+    ]
+  },
+  {
+    "text": "ban đỏ ở vị trí phẫu thuật",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1154,
+      1179
+    ]
+  },
+  {
+    "text": "đau ấn vùng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1187,
+      1200
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1214,
+      1216
+    ]
+  },
+  {
+    "text": "triệu chứng toàn thân khác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      1243,
+      1268
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1351,
+      1360
+    ]
+  }
+]

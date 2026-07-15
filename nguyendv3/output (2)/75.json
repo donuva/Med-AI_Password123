@@ -1,0 +1,262 @@
+[
+  {
+    "text": "Can thiệp mạch vành qua da (POBA) vào động mạch chéo gốc",
+    "position": [
+      319,
+      375
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Can thiệp mạch vành qua da và đặt 2 stent phủ thuốc có chồng lấp nhau ở đoạn giữa động mạch vành phải (RCA)",
+    "position": [
+      382,
+      489
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nong bóng động mạch vành qua da (PTCA) tại nhánh sau bên (posterolateral branch) của động mạch vành",
+    "position": [
+      496,
+      595
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái dữ dội lan xuống cánh tay trái",
+    "position": [
+      640,
+      684
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngậm nitroglycerin dưới lưỡi 1 liều",
+    "position": [
+      781,
+      816
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "316370"
+    ]
+  },
+  {
+    "text": "cơn đau dữ dội",
+    "position": [
+      859,
+      873
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      885,
+      892
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      909,
+      922
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1114466"
+    ]
+  },
+  {
+    "text": "không giảm đau",
+    "position": [
+      929,
+      943
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      945,
+      953
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái dữ dội lan xuống cánh tay trái",
+    "position": [
+      1032,
+      1076
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [
+      1083,
+      1092
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      885,
+      892
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tim sóng ST chênh xuống ở các chuyển đạo v4 đến v6",
+    "position": [
+      1154,
+      1209
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1226,
+      1233
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "103863"
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      909,
+      922
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1114466"
+    ]
+  },
+  {
+    "text": "nitroglycerin dạng bôi/dán lên da",
+    "position": [
+      1283,
+      1316
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "ativan ( Lorazepam)",
+    "position": [
+      1342,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1665189"
+    ]
+  },
+  {
+    "text": "lovenox",
+    "position": [
+      1368,
+      1375
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "854232"
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [
+      1569,
+      1578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin là 0.10",
+    "position": [
+      1603,
+      1619
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang",
+    "position": [
+      1678,
+      1688
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sóng ST chênh xuống",
+    "position": [
+      1746,
+      1765
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EKG",
+    "position": [
+      1812,
+      1815
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

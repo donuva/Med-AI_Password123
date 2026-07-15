@@ -1,0 +1,90 @@
+[
+  {
+    "text": "đái tháo đường",
+    "position": [
+      48,
+      62
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      69,
+      82
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khoảng 65% của động mạch cảnh chung trái gần gốc",
+    "position": [
+      580,
+      632
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bằng chứng xơ vữa mảng loét",
+    "position": [
+      637,
+      664
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật nội mạch hóa động mạch cảnh",
+    "position": [
+      776,
+      814
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp mạch máu",
+    "position": [
+      875,
+      888
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khoảng 65% của động mạch cảnh chung trái",
+    "position": [
+      909,
+      953
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ vữa mảng loét",
+    "position": [
+      977,
+      993
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

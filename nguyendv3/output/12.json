@@ -1,0 +1,162 @@
+[
+  {
+    "text": "ho",
+    "position": [
+      133,
+      135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu",
+    "position": [
+      156,
+      165
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt đến 38.8°C (101.8°F)",
+    "position": [
+      461,
+      485
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      506,
+      508
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      571,
+      578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu cỡ đồng xu x3 đêm qua",
+    "position": [
+      585,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đờm pha màu hồng",
+    "position": [
+      623,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "fever (trở thành sốt đến 38.8°C)",
+    "position": [
+      646,
+      678
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "levofloxacin",
+    "position": [
+      876,
+      888
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1665497"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      975,
+      982
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1243440"
+    ]
+  },
+  {
+    "text": "công thức máu (cbc)",
+    "position": [
+      1035,
+      1054
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.3",
+    "position": [
+      1068,
+      1072
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1105,
+      1122
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không phát hiện viêm phổi hoặc phù phổi",
+    "position": [
+      1123,
+      1162
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lấy mẫu cấy máu",
+    "position": [
+      1195,
+      1210
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "219050"
+    ]
+  }
+]

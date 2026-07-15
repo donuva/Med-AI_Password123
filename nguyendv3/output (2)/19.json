@@ -1,0 +1,148 @@
+[
+  {
+    "text": "Giai đoạn IV Ung thư phổi không tế bào nhỏ",
+    "position": [
+      66,
+      108
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Di căn não vùng trán phải",
+    "position": [
+      115,
+      140
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vicodin",
+    "position": [
+      382,
+      389
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "128793"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      595,
+      598
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      650,
+      653
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bẹn trái",
+    "position": [
+      708,
+      720
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau dữ dội",
+    "position": [
+      837,
+      847
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vicodin",
+    "position": [
+      906,
+      913
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "128793"
+    ]
+  },
+  {
+    "text": "cảm giác châm chích",
+    "position": [
+      986,
+      1005
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu",
+    "position": [
+      1007,
+      1010
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác nặng ở chân trái",
+    "position": [
+      1016,
+      1041
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vicodin",
+    "position": [
+      1081,
+      1088
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "128793"
+    ]
+  },
+  {
+    "text": "không thấy giảm đau",
+    "position": [
+      1089,
+      1108
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

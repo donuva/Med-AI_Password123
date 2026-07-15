@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Thuyên tắc tĩnh mạch sâu chi dưới ở chân trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      63,
+      107
+    ]
+  },
+  {
+    "text": "đau ngực trái cấp tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      156,
+      177
+    ]
+  },
+  {
+    "text": "đau sau xương ức lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      182,
+      213
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      292,
+      304
+    ]
+  },
+  {
+    "text": "đau sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      312,
+      327
+    ]
+  },
+  {
+    "text": "đau lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      335,
+      353
+    ]
+  },
+  {
+    "text": "đau ngực lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      404,
+      427
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính mạch máu (ctma) ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      486,
+      526
+    ]
+  },
+  {
+    "text": "tắc mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      555,
+      567
+    ]
+  },
+  {
+    "text": "Không thấy hình ảnh thuyên tắc mạch phổi",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      578,
+      617
+    ]
+  },
+  {
+    "text": "thuyên tắc mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "text": "tổn thương bóc tách động mạch chủ Stanford loại B",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      630,
+      678
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính mạch máu (ctma) ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      713,
+      753
+    ]
+  },
+  {
+    "text": "bóc tách động mạch chủ loại B",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      804,
+      832
+    ]
+  }
+]
